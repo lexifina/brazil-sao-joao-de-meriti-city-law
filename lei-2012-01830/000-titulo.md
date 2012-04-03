@@ -1,0 +1,2 @@
+# LEI Nº 1830, DE 03 DE ABRIL DE 2012 DISPÕE SOBRE A LIMPEZA DE FEZES DE ANIMAIS EM PRAÇAS, PARQUES E LOGRADOUROS PÚBLICOS.
+Autor: Antonio Carlos Titinho O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L______E______I:
