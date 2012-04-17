@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR N.º 147, DE 17 DE ABRIL DE 2012.
+"DISPÕE SOBRE A REGULAÇÃO DA CONCESSÃO DE SERVIÇO PÚBLICO DE EXPLORAÇÃO DE ESTACIONA MENTO DE VEÍCULOS EM LOGRADOUROS PÚBLICOS E PRAÇAS NO MUNICÍPIO DE SÃO JOÃO DE MERITI-RJ, NA FORMA DO ART. 5º DA LEI N.º 943/97."
+Faço saber que a Câmara Municipal de São João de Meriti, por seus representantes legais, aprova e eu sanciono o seguinte L E I C O M P L E M E N T A R :
