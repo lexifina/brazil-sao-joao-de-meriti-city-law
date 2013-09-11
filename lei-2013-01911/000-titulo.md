@@ -1,0 +1,3 @@
+# LEI N.º 1911, DE 11 DE SETERMBRO DE 2013.
+"AUTORIZA E INSTITUI O SISTEMA DE APOIO ÀS MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA NO ÂMBITO DO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS."
+Autora: Angela Theodoro da Costa O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
