@@ -1,0 +1,3 @@
+# LEI N.º 1926, DE 12 DE NOVEMBRO DE 2013.
+Exmo. Senhor Presidente da Câmara Municipal de São João de Meriti-RJ O Vereador infra-assinado, no uso de suas atribuições legais, solicita com base na Lei Orgânica do Município e nos art. 8, inciso VI c/c art. 142, art. 149, art. 171, e, cumprindo as formalidades do art. 170, todos do Regimento Interno da Câmara Municipal de São João de Meriti/RJ, que V. Exª leia e coloque em votação e após sua aprovação, envie ao Chefe do Poder Executivo Municipal, a seguinte proposição:
+"Dispõe sobre obrigatoriedade da realização gratuita do exame neonatal denominado Reflexo Vermelho (Teste do Olhinho), no Município de São João de Meriti, e dá outras providências" Autor: Aldinho Hungria
