@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº.160 DE 29 DE ABRIL DE 2014.
+"Modifica a denominação de Unidade Escolar Municipal, e dá outras providências".
+O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI, no uso de suas atribuições legais e constitucionaise, considerando, Que através das políticas públicas se constrói uma sociedade pelna; Que um dos objetivos da Secretaria Municipal de Educação é ampliar a oferta de vagas no Ensino Fundamental, proporcionando oportunidades educativas aos alunos da Educação Infantil; Que a educação é um fator estratégico para dar continuidade ao processo de desenvolvimento sócio-educativo-econômico. Faço saber que a Câmara Municipal de São João de Meriti, aprova e eu sanciono a seguinte L E I C O M P L E M E N T A R:
