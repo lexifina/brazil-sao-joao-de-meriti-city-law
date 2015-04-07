@@ -1,0 +1,2 @@
+# LEI Nº 1985 DE 07 DE ABRIL DE 2015 "Dispõe sobre a cassação de alvará para localização e funcionamento de estabelecimentos comerciais, bem como licença de comércio ambulante, que comercializar bebida alcoólica, cigarro ou qualquer outro tipo de produto cuja a venda seja proibida para menores de idade ou de origem duvidosa."
+Autor: Carlos Roberto Rodrigues - Bebeto O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
