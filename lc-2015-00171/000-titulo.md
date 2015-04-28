@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 171 DE 28 DE ABRIL DE 2015.
+"CRIA O CENTRO DE MEDIAÇÃO DE CONFLITOS DE SÃO JOÃO DE MERITI e dá outras providências".
+O PREFEITO DO MUNICIPIO DE SÃO JOÃO DE MERITI, faz saber que a CÂMARA MUNICIPAL aprovou e ele sanciona a seguinte:
+L E I C O M P L E M E N T A R:
