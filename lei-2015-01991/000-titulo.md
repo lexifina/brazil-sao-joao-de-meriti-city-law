@@ -1,0 +1,2 @@
+# LEI Nº 1991 DE 12 DE MAIO DE 2015 "Obriga todas as Agências Bancárias do Município de São João de Meriti, estatais ou particulares a instalarem, tapumes, biombos ou estruturas similares de forma específica diante dos Caixas Internos nos estabelecimentos para atender a população de forma mais segura e eficaz".
+Autora: Roberta Queiroz O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
