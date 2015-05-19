@@ -1,0 +1,2 @@
+# LEI Nº 1993 DE 19 DE MAIO DE 2015 "Dispõe sobre a criação do Programa Social de Apoio e Atendimento à Criança e ao Adolescente denominado Guarda Jovem Municipal e dá outras providências."
+Autor: Carlos Roberto Rodrigues - Bebeto O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
