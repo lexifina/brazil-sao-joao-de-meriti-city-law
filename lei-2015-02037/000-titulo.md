@@ -1,0 +1,1 @@
+# LEI Nº 2.037 DE 03 DE NOVEMBRO DE 2015 Autoriza a doação de bem imóvel municipal à Ordem dos Advogados do Brasil - Seccional do Rio de Janeiro (OAB/RJ) e dá outras providências" O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI: Faço saber que a Câmara dos Vereadores da Cidade de São João de Meriti, aprova e eu Sanciono a seguinte L E I:
