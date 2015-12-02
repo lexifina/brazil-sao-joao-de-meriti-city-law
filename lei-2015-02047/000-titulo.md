@@ -1,0 +1,1 @@
+# LEI Nº 2.047 DE 02 DE DEZEMBRO DE 2015 "Dispõe sobre o Reaproveitamento de Água Pluvial nas Escolas Públicas no município de São João de Meriti, e dá outras providências" Autor: Anderson Peçanha O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI: Faço saber que a Câmara Municipal de São João de Meriti, aprova e eu sanciono a seguinte L E I :
