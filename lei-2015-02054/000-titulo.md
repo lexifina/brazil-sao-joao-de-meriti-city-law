@@ -1,0 +1,2 @@
+# LEI N.º 2.054 DE 22 DE DEZEMBRO DE 2015 "Autoriza o Poder Executivo a contratar com as instituições financeiras públicas operação de alienação de ativos dos créditos decorrentes de royalties, participações especiais e compensações financeiras relacionados à exploração de petróleo e gás natural, recursos hídricos e minerais."
+O PREFEITO DO MUNICÍPIO DE SÃO JOÃO DE MERITI: Faço saber que a Câmara Municipal de São João de Meriti aprovou e eu promulgo e sanciono a seguinte L E I:
