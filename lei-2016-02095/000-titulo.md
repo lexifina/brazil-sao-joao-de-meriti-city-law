@@ -1,0 +1,2 @@
+# LEI Nº. 2.095 DE 03 DE MAIO DE 2016.
+O PREFEITO MUNICIPAL DE SÃO JOÃO DE MERITI aprova e sanciona a seguinte L E I:
