@@ -1,0 +1,2 @@
+# LEI Nº 2.123 DE 29 DE NOVEMBRO DE 2016 EMENTA: DISPÕE SOBRE A PROIBIÇÃO DO USO DE CARROS PARTICULARES CADASTRADOS EM APLICATIVOS PARA O TRANSPORTE REMUNERADO DE PESSOAS NO MUNICÍPIO DE SÃO JOÃO DE MERITI E DÁ OUTRAS PROVIDÊNCIAS.
+Autores: Antonio Carlos Cardoso Correa (Titinho), Carlos Roberto Rodrigues (Bebeto) e Giovani Leite de Abreu (Ratinho) O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
