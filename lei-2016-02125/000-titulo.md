@@ -1,0 +1,1 @@
+# LEI Nº 2.125 DE 29 DE NOVEMBRO DE 2016 "Dispoe sobre a remoção de veículos por estacionamento irregular pela Prefeitura de São João de Meriti" O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I:
