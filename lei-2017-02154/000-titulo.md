@@ -1,0 +1,1 @@
+# LEI Nº 2.154 DE 17 DE MAIO DE 2017 "Dispõe sobre a obrigatoriedade de atendimento dos usuários nas agências bancárias do Município de São João de Meriti e dá outras providências" Autor: João Dantas de Mello - Doca Brazão O PREFEITO DA CIDADE DE SÃO JOÃO ADE MERITI: Faço saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I :
