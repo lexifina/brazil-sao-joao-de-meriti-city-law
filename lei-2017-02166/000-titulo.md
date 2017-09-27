@@ -1,0 +1,4 @@
+# LEI Nº 2.166 DE 27 DE SETEMBRO DE 2017.
+Inclui no quadro do Anexo XI da Lei de Zoneamento a Atividade de Reciclagem de Resíduos Sólidos da Construção Civil.
+Faço saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I: Considerando a Resolução CONAMA nº 307/2002, alterada pela resolução CONAMA nº 384/2004, e conforme Art. 13 Item H, da Lei nº 12305/2010, que atribui atividades de resíduos sólidos da construção civil em todo território nacional. Considerando que os resíduos sólidos oriundos da Construção Civil, são de baixo impacto ambiental e de mínima periculosidade.
+Considerando que a implantação de atividade de reciclagem de resíduos sólidos da construção civil, e de interesse coletivo das comunidades. Considerando que os materiais oriundos da construção civil, são classificados como inertes, e não causam danos ambientais.
