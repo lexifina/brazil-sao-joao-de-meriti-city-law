@@ -1,0 +1,2 @@
+# LEI Nº 2.181 DE 04 ABRIL DE 2018 "Autoriza a utilização, por grupos de escoteiros ou de bandeirantes, das instalações das unidades que integram a rede municipal de ensino público, nas condições que menciona."
+Autor: Mica O PREFEITO DA CIDADE DE SÃO JOÃO ADE MERITI, no uso de suas atribuições legais, nos termos do art. 53, da Lei Orgânica, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I :
