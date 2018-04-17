@@ -1,0 +1,1 @@
+# LEI Nº 2.184 DE 17 DE ABRIL DE 2018 "Institui o Dia Municipal dos Desbravadores no Município de São João de Meriti" Autor: João da Padaria O Prefeito da Cidade de São João de Meriti, no uso de suas atribuições, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I :
