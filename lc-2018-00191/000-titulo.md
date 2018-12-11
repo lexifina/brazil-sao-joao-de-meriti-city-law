@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 191 DE 11 DE DEZEZEMBRO 2018 Altera a redação das Leis municipais n.º 1005 de 1999, e n.º 104 de 2008 e dá outras providências O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI, faz saber que a Câmara dos Vereadores da cidade de São João de Meriti aprova, e eu sanciono a seguinte L E I :
