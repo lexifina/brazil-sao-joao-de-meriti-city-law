@@ -1,0 +1,1 @@
+# LEI Nº 2.205 DE 04 DE JUNHO DE 2019 "Reconhece como sendo de Utilidade Pública a Associação Comercial e Industrial de São João de Meriti" Autor: Didê O Prefeito da Cidade de São João de Meriti, no uso de suas atribuições, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I :
