@@ -1,0 +1,1 @@
+# LEI Nº 2.217 , DE 18 DE DEZEMBRO DE 2019 "TORNA JOÃO CÂNDIDO FELISBERTO HERÓI MUNICIPAL DA CIDADE DE SÃO JOÃO DE MERITI " Autor: Aldinho Hungria O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI, no uso de suas atribuições, faz saber que a CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI aprova e eu sanciono a seguinte L E I :
