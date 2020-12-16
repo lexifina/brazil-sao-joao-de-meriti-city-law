@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 199 DE 16 DE DEZEMBRO DE 2020.
+O PREFEITO DO MUNÍCIPIO DE SÃO JOÃO DE MERITI, faço saber que a CÂMARA MUNICIPAL aprova e eu sanciono a seguinte:
+L E I:
