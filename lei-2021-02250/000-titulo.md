@@ -1,0 +1,1 @@
+# LEI Nº 2.250 DE 02 MARÇO DE 2021 Autor: Giovani Ratinho Jr O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte
