@@ -1,0 +1,2 @@
+# LEI Nº 2.265 DE 25 DE MAIO DE 2021 Autoriza o Poder Executivo a instalar o Centro Tecnológico, vinculado a Secretaria de Estado de Ciência, Tecnologia e Inovação, na Praça Dos Três Poderes e dá outras providências.
+O PREFEITO DA CIDADE DE SÃO JOÃO DE MERITI, no uso de suas atribuições legais e considerando o disposto nos Art. 30 a 34 da Lei Federal nº 14.113 de 25 de dezembro de 2020. Faço saber que a Câmara Municipal de São João de Meriti, aprova e eu sanciono a seguinte L E I:
