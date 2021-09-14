@@ -1,0 +1,1 @@
+# LEI Nº 2.279 DE 14 DE SETEMBRO DE 2021 EMENTA INSTITUI NO CALENDÁRIO OFICIAL DO MUNCIPIO DE SÃO JOÃO DE MERITI O DIA 15 DE NOVEMBRO COMO O DIA DA UMBANDA E DO UMBANDISTA Autor: Vereador EDUARDO DOS SANTOS ABREU O Prefeito da Cidade de São João de Meriti, no uso de suas atribuições, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I
