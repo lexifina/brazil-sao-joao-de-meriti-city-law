@@ -1,0 +1,2 @@
+# LEI Nº 2.278 DE 14 DE SETEMBRO DE 2021 EMENTA: INSTITUI NO ÂMBITO DO MUNICÍPIO DE SÂO JOÃO DE MERITI O PROGRAMA "ADOTE UMA RUA", COM O OBJETIVO DE INCENTIVAR PESSOAS FÍSICAS E JURÍDICAS A CONTRIBUÍREM PARA MELHORIA, CONSERVAÇÃO E MANUTENÇÃO DA CIDADE.
+Autor: Vereador EDUARDO DOS SANTOS ABREU O Prefeito da Cidade de São João de Meriti, no uso de suas atribuições, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I
