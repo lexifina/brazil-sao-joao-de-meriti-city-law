@@ -1,0 +1,2 @@
+# LEI Nº 2.276 DE SETEMBRO DE /2021 Vereadora Autora Drª Letícia Costa AUTORIZO O PODER EXECUTIVO INSTITUIR NO CALENDÁRIO MUNICIPAL A SEMANA DE CONSCIENTIZAÇÃO E COMBATE AO FEMINICÍDIO, VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER, NOS DIAS 8 A 13 DE MARÇO DE CADA ANO FLUENTE.
+O Prefeito da Cidade de São João de Meriti, no uso de suas atribuições, faz saber que a Câmara Municipal de São João de Meriti aprova e eu sanciono a seguinte L E I
