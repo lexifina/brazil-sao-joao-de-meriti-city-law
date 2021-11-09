@@ -1,0 +1,2 @@
+# LEI Nº 2.290 DE 09 DE NOVEMBRO DE 2021 "Proíbe no âmbito do município de São João de Meriti a cobrança de sacolas descartáveis biodegradáveis de papel ou de qualquer outro material que não polua o meio ambiente para embalagem e transporte de produtos adquiridos em estabelecimentos comerciais."
+Autor: Carlos Moutinho O PRESIDENTE DA CÂMARA MUNICIPAL DE SÃO JOÃO DE MERITI, tendo em vista o disposto nos parágrafos 2º e 6º do art. 39 da Lei Orgânica do Município, PROMULGA a seguinte L E I :
