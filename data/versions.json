@@ -1,0 +1,19 @@
+{
+ "country": "BR-RJ-SAO-JOAO-DE-MERITI",
+ "acts": [
+  {
+   "slug": "lei-2026-02816",
+   "short": "Lei 2816/2026",
+   "title": "Lei nº 2.816, de 31 de agosto de 2026",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/5780",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2026/5780/lei_ordinaria_no_2.816_de_31_de_agosto_de_2026.pdf",
+     "sha256": "096304bff588be745e057a24bf8c3abcf40242b0134efb69e5c9ce381aad3484"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "br-rj-sao-joao-de-meriti",
+  "code": "BR-RJ-SAO-JOAO-DE-MERITI",
+  "name": "São João de Meriti (city)",
+  "level": "municipality",
+  "parent": "br-rj",
+  "repo": "https://github.com/lexifina/brazil-sao-joao-de-meriti-city-law",
+  "build": "built: the law of São João de Meriti from the Câmara Municipal's SAPL"
+}
