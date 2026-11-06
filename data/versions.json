@@ -1484,6 +1484,286 @@
      "sha256": "8e88fe920829b1e45e9ee456fd9fcbbde625dc76136342dde0f1c70de06bda4b"
     }
    ]
+  },
+  {
+   "slug": "lei-2015-02048",
+   "short": "Lei 2048/2015",
+   "title": "Lei nº 2.048, de 2 de dezembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1029",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1029/lei_no_2.048_de_02_de_dezembro_de_2015.pdf",
+     "sha256": "fe9fc2a7965a7633bb642f66ff3ea62a226250e55b1429520df393e8841062a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02047",
+   "short": "Lei 2047/2015",
+   "title": "Lei nº 2.047, de 2 de dezembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1027",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1027/lei_no_2.047_de_02_de_dezembro_de_2015.pdf",
+     "sha256": "5dd4e32ed77b882ea88e6c096f81baa1d684c705f5d0497b5d2f364d9b2a19e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02044",
+   "short": "Lei 2044/2015",
+   "title": "Lei nº 2.044, de 17 de novembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/961",
+   "versions": [
+    {
+     "from": "2015-11-17",
+     "units": 12,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/961/lei_no_2.044_de_17_de_novembro_de_2015..pdf",
+     "sha256": "6fb1a5b3fb74b86ed6d62df93d932dfe25a0c93e08e0f87c1d97252a630d3b7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02028",
+   "short": "Lei 2028/2015",
+   "title": "Lei nº 2.028, de 10 de novembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/946",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/946/lei_no_2.028_de_10_de_novembro_de_2015..pdf",
+     "sha256": "658cbcd83f074c57f171b4ed31f31f8bc1d69ab7685f9609955a130187da395c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02037",
+   "short": "Lei 2037/2015",
+   "title": "Lei nº 2.037, de 3 de novembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/955",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/955/lei_no_2.037_de_03_de_novembro_de_2015.pdf",
+     "sha256": "bb391cd65e4dcfb7b716e012161da809a32f95bd85dc24750cbcf9d9d47861f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02036",
+   "short": "Lei 2036/2015",
+   "title": "Lei nº 2.036, de 3 de novembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/954",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/954/lei_no_2.036_de_03_de_novembro_de_2015..pdf",
+     "sha256": "f6af9d8481832f1bfc6154a13615a037e7df647d73bdd12217160e43d120002d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02032",
+   "short": "Lei 2032/2015",
+   "title": "Lei nº 2.032, de 27 de outubro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/950",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/950/lei_no_2.032_de_27_de_outubro_de_2015.pdf",
+     "sha256": "0b6ca794d384ed01fe66d8693a463502463b3c8bc66c14c59ab1cb187b0d3f2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02027",
+   "short": "Lei 2027/2015",
+   "title": "Lei nº 2.027, de 20 de outubro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/945",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/945/lei_no_2.027_de_20_de_outubro_de_2015..pdf",
+     "sha256": "2c5c2a6f6abafcf9212c414fe58954c7d994e8c2fae19cefbea5274b1a45b96a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02026",
+   "short": "Lei 2026/2015",
+   "title": "Lei nº 2.026, de 20 de outubro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/944",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/944/lei_no_2.026_de_20_deoutubro_de_2015..pdf",
+     "sha256": "1560389319be2593e3a7457d06e878cf969d4547712e408c7fbec4b99663b821"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02022",
+   "short": "Lei 2022/2015",
+   "title": "Lei nº 2.022, de 6 de outubro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/940",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/940/lei_n_2.022_de_06_de_outubro_de_2015..pdf",
+     "sha256": "1aef191162d95f64849f04b449feabf87fb38a3e5ab3f99fdd69f6171ddf4923"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02019",
+   "short": "Lei 2019/2015",
+   "title": "Lei nº 2.019, de 29 de setembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/937",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/937/lei_no_2.019_de_29_de_setembro_de_2015.pdf",
+     "sha256": "5827b31771487003bebf0470bea63360cfd39d7f9cdf59294bfbdc81e61ab5c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02018",
+   "short": "Lei 2018/2015",
+   "title": "Lei nº 2.018, de 8 de setembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1028",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1028/lei_no_2018_de_08_de_setembro_de_2015..pdf",
+     "sha256": "83e8a6f6492a48a010a8d7798fd6311c70627764da5ac55547ba3111318cf13b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02017",
+   "short": "Lei 2017/2015",
+   "title": "Lei nº 2.017, de 8 de setembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1032",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1032/lei_no_2017_de_08_de_setembro_de_2015..pdf",
+     "sha256": "8a1307cbb3fcea14cecc5b4b8fa1c75119b1d3f4ec169049296a27e030052591"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02013",
+   "short": "Lei 2013/2015",
+   "title": "Lei nº 2.013, de 11 de agosto de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/933",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/933/lei_n_2013_de_11_de_agosto_de_2015..pdf",
+     "sha256": "76dc3efed7807820c7b7894d886d1b0113de3c472b033cfe4d0418e22bc89e2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02012",
+   "short": "Lei 2012/2015",
+   "title": "Lei nº 2.012, de 11 de agosto de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/932",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/932/lei_no_2012_de_11_de_agosto_de_2015.pdf",
+     "sha256": "978a5c82c53c0dc4bebd29b726ae6acc23f507bbd364175fdc7bf025662c6fd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02011",
+   "short": "Lei 2011/2015",
+   "title": "Lei nº 2.011, de 4 de agosto de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/931",
+   "versions": [
+    {
+     "from": "2015-08-04",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/931/lei_no_2011_de_04_de_agosto_de_2015.pdf",
+     "sha256": "e06751240bc9f0f567dcda8ae8385d82b2a6626b0f69e866f9180ca0d53a28bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02010",
+   "short": "Lei 2010/2015",
+   "title": "Lei nº 2.010, de 4 de agosto de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2539",
+   "versions": [
+    {
+     "from": "2015-08-04",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/2539/lei_no_2010_de_04_de_agosto_de_2015.pdf",
+     "sha256": "8193084f52e5d74bb4b8b72a511fe08fb50f950231ce61fa3ecd39144e6b896f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02008",
+   "short": "Lei 2008/2015",
+   "title": "Lei nº 2.008, de 15 de julho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/929",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/929/lei_no_2008_de_15_de_julho_de_2015.pdf",
+     "sha256": "dfba881259bc08e25a407befa91c2ce39a1bd30d9124490ba29350a7676cbf57"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02007",
+   "short": "Lei 2007/2015",
+   "title": "Lei nº 2.007, de 8 de julho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2538",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/2538/lei_no_2007_de_08_de_julho_de_2015.pdf",
+     "sha256": "8a7733799daf45fe7d938404de2107857cbb2e1c1b4b8b36075c8cca49eaae49"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02005",
+   "short": "Lei 2005/2015",
+   "title": "Lei nº 2.005, de 30 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/927",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/927/lei_no_2005_de_30_de_junho_de_2015..pdf",
+     "sha256": "4deef03145c3161017f53cc1e33ab1c429e6642592fab0afe4d6f6fafcfd3165"
+    }
+   ]
   }
  ]
 }
