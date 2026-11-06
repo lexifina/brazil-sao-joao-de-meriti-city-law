@@ -2310,6 +2310,622 @@
      "sha256": "b3578d184e74390d7039ee532271217f663e3177df6735667e33b2f8d7a00052"
     }
    ]
+  },
+  {
+   "slug": "lei-2014-01957",
+   "short": "Lei 1957/2014",
+   "title": "Lei nº 1.957, de 15 de julho de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/728",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/728/lei_no._1957_de_15_de_julho_de_2014..pdf",
+     "sha256": "d53db608307539cd40a47e2b3be02cedb47e0b6559c0c93a19baca16d6bb768d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01956",
+   "short": "Lei 1956/2014",
+   "title": "Lei nº 1.956, de 15 de julho de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/727",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/727/lei_no._1956_de_15_de_julho_de_2014..pdf",
+     "sha256": "bad0cb5facc0ddd67c430856c04175574198711572d87572c3edc8bd1f022ad6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01955",
+   "short": "Lei 1955/2014",
+   "title": "Lei nº 1.955, de 15 de julho de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/726",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/726/lei_no._1955_de_15_de_julho_de_2014..pdf",
+     "sha256": "b6064b16397fdf18f324b1841f1fa534c6318256fce9a5e12681b267c9164fd0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01954",
+   "short": "Lei 1954/2014",
+   "title": "Lei nº 1.954, de 15 de julho de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/725",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/725/lei_no._1954_de_15_de_julho_de_2014..pdf",
+     "sha256": "616fce96b3b3dda00b5cb5a239436711ce5a49637881af6df8ff71c18dba8a21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01953",
+   "short": "Lei 1953/2014",
+   "title": "Lei nº 1.953, de 10 de junho de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/724",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/724/lei_no._1953_de_10_de_junho_de_2014..pdf",
+     "sha256": "64ffa0f5413de992ccfb10328eb7b673c24176ac1ef6aabca796c96a79db126d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01952",
+   "short": "Lei 1952/2014",
+   "title": "Lei nº 1.952, de 14 de maio de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/723",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/723/lei_no.1952_de_14_de_maio_de_2014..pdf",
+     "sha256": "8d468e854f08fcca3d2fa68a7b9f88fe7094fa92c6b4b56c074f4bf7ab2cfe43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01951",
+   "short": "Lei 1951/2014",
+   "title": "Lei nº 1.951, de 6 de maio de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2528",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2528/lei___1951.pdf",
+     "sha256": "f66c537e8d7c69f6422d51e56f06fcda77deddc729ab847684bdf309ba6be3be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01950",
+   "short": "Lei 1950/2014",
+   "title": "Lei nº 1.950, de 6 de maio de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2527",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2527/lei___1950.pdf",
+     "sha256": "9d540f43ea1ddf40043136829228dadbbba76115e82e1246bdba37ef9254231d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00165",
+   "short": "LC 165/2014",
+   "title": "Lei Complementar nº 165, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/626",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/626/lei_complementar_n.o_165_de_29_de_abril_de_2014..pdf",
+     "sha256": "17c7384a65ea83af7ff0ce311b4722ac7b3356ee71eaddb883e7aaea31b5cf82"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00164",
+   "short": "LC 164/2014",
+   "title": "Lei Complementar nº 164, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/625",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/625/lei_complementar_no.164_de_29_de_abril_de_2014..pdf",
+     "sha256": "b738773faddb57b6930581a7f6d06defe475445311759029cafb6fa914b5be8c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00163",
+   "short": "LC 163/2014",
+   "title": "Lei Complementar nº 163, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/624",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/624/lei_complementar_no.163_de_29_de_abril_de_2014..pdf",
+     "sha256": "57134a3086ded3ca4ae3a7f0f20d74c28a2b43c9fcd74a46883d929c29c1191d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00162",
+   "short": "LC 162/2014",
+   "title": "Lei Complementar nº 162, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/623",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/623/lei_complementar_no.162_de_29_de_abril_de_2014..pdf",
+     "sha256": "c5b42a9e865d5d2fc33a6ca2d6f32a8e9fcd63028e599073d771d1ace2cb47a7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00161",
+   "short": "LC 161/2014",
+   "title": "Lei Complementar nº 161, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/622",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/622/lei_complementar_no.161_de_29_de_abril_de_2014..pdf",
+     "sha256": "22790ef30d28f7eada4d87b9b5e516e3c68a9541d94c8f0d24a96c2f1d9fc3e0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-00160",
+   "short": "LC 160/2014",
+   "title": "Lei Complementar nº 160, de 29 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/621",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/621/lei_complementar_no.160_de_29_de_abril_de_2014..pdf",
+     "sha256": "11e24288529b210d057959ba5405126695e527bd026bc5a76c213a7dc56f2edd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01948",
+   "short": "Lei 1948/2014",
+   "title": "Lei nº 1.948, de 16 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/721",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/721/lei_no_1948_de_16_de_abril_de_2014..pdf",
+     "sha256": "d83ed779ec87fed802d205c80db594f34cd705a15f5aca057a08d531d02e9442"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01947",
+   "short": "Lei 1947/2014",
+   "title": "Lei nº 1.947, de 2 de abril de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/720",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/720/lei_n.o_1947_de_02_de_abril_de_2014..pdf",
+     "sha256": "679d200950cd0a5d311d8e3bdcd5164e977a86a284b21dbd3fce825b71756782"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01946",
+   "short": "Lei 1946/2014",
+   "title": "Lei nº 1.946, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/901",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/901/lei_no._1946_de_25_de_marco_de_2014..pdf",
+     "sha256": "0096588579de2a78f03e29dfbbc25936395a4455d4d239a6d0059d328661c0bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01945",
+   "short": "Lei 1945/2014",
+   "title": "Lei nº 1.945, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/719",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/719/lei_n.o_1945_de_25_de_marco_de_2014..pdf",
+     "sha256": "ff481ecc8a36385286ca94ec17850832cee40298de0edd76f9df7aeaaf8588a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01944",
+   "short": "Lei 1944/2014",
+   "title": "Lei nº 1.944, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/718",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/718/lei_n.o_1944_de_25_de_marco_de_2014..pdf",
+     "sha256": "bfbd2d63a804c88db6a7642a7230c01a7ec5deaf621a35437933dc957a7fc8fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01943",
+   "short": "Lei 1943/2014",
+   "title": "Lei nº 1.943, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/717",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/717/lei_n.o_1943_de_25_de_marco_de_2014..pdf",
+     "sha256": "4abb6796ed81f52313ceb92ed60befb561cdd425231603412ccd084cc002e8d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01942",
+   "short": "Lei 1942/2014",
+   "title": "Lei nº 1.942, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/716",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/716/lei_n.o_1942_de_25_de_marco_de_2014..pdf",
+     "sha256": "f6be1637aff875486ff4430bb3b835fcd2f895a2f7c428086dd1ae5f0251bfc2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01941",
+   "short": "Lei 1941/2014",
+   "title": "Lei nº 1.941, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/715",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/715/lei_n.o_1941_de_25_de_marco_de_2014..pdf",
+     "sha256": "8ba6565c9578e095e97317e48c45d32ba09ac1a84de401bad3a9251011625a7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01940",
+   "short": "Lei 1940/2014",
+   "title": "Lei nº 1.940, de 25 de março de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/714",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/714/lei_n.o_1940_de_25_de_marco_de_2014..pdf",
+     "sha256": "85538c308c5f9902a6b1e9fc1efcaed7f4d074c2a62a6e2798dfcd730a0a99ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01939",
+   "short": "Lei 1939/2014",
+   "title": "Lei nº 1.939, de 11 de fevereiro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2526",
+   "versions": [
+    {
+     "from": "2014-02-11",
+     "units": 11,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2526/lei___1939.pdf",
+     "sha256": "6024758a69935149c3a15c59139605fa026a02b7d5a5be1c0cc55df67e8cc5b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01938",
+   "short": "Lei 1938/2013",
+   "title": "Lei nº 1.938, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/381",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/381/lei_no.1938_de_18_de_dezembro_de_2013.pdf",
+     "sha256": "a220ce5718230100cb987f4fc7d8efc51919bcdcf72f2019f609860a4c732a5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01937",
+   "short": "Lei 1937/2013",
+   "title": "Lei nº 1.937, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2525",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 20,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2525/lei__no_1937.pdf",
+     "sha256": "b95494ac51e453617d038fca0001180868680204ec4eb5a1858e5ac41e115b0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01936",
+   "short": "Lei 1936/2013",
+   "title": "Lei nº 1.936, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2524",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 20,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2524/lei__no_1936.pdf",
+     "sha256": "e7df70a4c5bf26b499c0bb983fc4d85f25b522f26fc0cd8908ee2858deca437b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-00158",
+   "short": "LC 158/2013",
+   "title": "Lei Complementar nº 158, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/507",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/507/lei_complementar_no_158_de_18_de_dezembro_de_2013..pdf",
+     "sha256": "0502c2bdd740c940134cc838d9db4eb4449d8bf6fe91d131fce4ef61e2e26605"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-00157",
+   "short": "LC 157/2013",
+   "title": "Lei Complementar nº 157, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/506",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/506/lei_complementar_no.157_de_18_de_dezembro_de_2013..pdf",
+     "sha256": "a6008f545818b2cb3a2f01d16ee3cffff0c1b48c3140e96b1745022d33177aa6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-00156",
+   "short": "LC 156/2013",
+   "title": "Lei Complementar nº 156, de 18 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2490",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2490/lei_compl._no_156.pdf",
+     "sha256": "7556cd638a56260e67293e5f5eda6ae166932dfe50f8a9892d247f20e1c03794"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01935",
+   "short": "Lei 1935/2013",
+   "title": "Lei nº 1.935, de 4 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2523",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2523/lei__no_1935.pdf",
+     "sha256": "64fea4c7afa7f7dffd4d1f2e7029cfec37cf5578fa6d8110b12c6b859fc32daf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01934",
+   "short": "Lei 1934/2013",
+   "title": "Lei nº 1.934, de 4 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2522",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2522/lei__no_1934.pdf",
+     "sha256": "ad222786eb02a7f5ba8dfb5b322a3acb98db9d0072f6ef1ca36a6616c0adf208"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01933",
+   "short": "Lei 1933/2013",
+   "title": "Lei nº 1.933, de 4 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2521",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2521/lei__no_1933.pdf",
+     "sha256": "1eb8f4e305ada97212c7f3fb4ec150494ea4297559df6a54c6689498cf604cad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01932",
+   "short": "Lei 1932/2013",
+   "title": "Lei nº 1.932, de 4 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2520",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2520/lei__no_1932.pdf",
+     "sha256": "e41a8547fd26f625af5d009daf62975c31692405fbee013f19a1c329245151e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01931",
+   "short": "Lei 1931/2013",
+   "title": "Lei nº 1.931, de 3 de dezembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2519",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2519/lei__no_1931.pdf",
+     "sha256": "90c2798f98813a39c6efb7edaf5206461ae41353ab823f723f4f4cb8098b92b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01930",
+   "short": "Lei 1930/2013",
+   "title": "Lei nº 1.930, de 13 de novembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/619",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/619/lei_no.1930_de_13_de_novembro_de_2013..pdf",
+     "sha256": "b2d069f30398e2a57b84990a88d3f1714b81199af18af6fb4fb84b3588f6ab24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01929",
+   "short": "Lei 1929/2013",
+   "title": "Lei nº 1.929, de 12 de novembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2518",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2518/lei__no_1929.pdf",
+     "sha256": "3b6a5fe22ca4adef7456dfd354871c5e3c6b41a9875c75cd8d9427bdf9d58399"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01928",
+   "short": "Lei 1928/2013",
+   "title": "Lei nº 1.928, de 12 de novembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2517",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2517/lei__no_1928.pdf",
+     "sha256": "f5cf780aaf8ea5a5749389542dd9f9a9e2287ef62549ee1be8506cb21449a478"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01927",
+   "short": "Lei 1927/2013",
+   "title": "Lei nº 1.927, de 12 de novembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2516",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2516/lei__no_1927.pdf",
+     "sha256": "ff6cfaf8eba462bfe254961cba70698b582cc9105df65124cc0c19fb903b25dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01926",
+   "short": "Lei 1926/2013",
+   "title": "Lei nº 1.926, de 12 de novembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2515",
+   "versions": [
+    {
+     "from": "2013-11-12",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2515/lei__no_1926.pdf",
+     "sha256": "760e5ff5b2df917b0a2286ec6bc75fee6cf548aa7156887d4dc8a3ed9435cc4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01923",
+   "short": "Lei 1923/2013",
+   "title": "Lei nº 1.923, de 22 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2514",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2514/lei__no_1923.pdf",
+     "sha256": "0c7997b15ca2241bc9e10a3a26004b4115bdc9ff786aac5d20bc488a9bfeb311"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01922",
+   "short": "Lei 1922/2013",
+   "title": "Lei nº 1.922, de 22 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2513",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 13,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2513/lei__no_1922.pdf",
+     "sha256": "34491794a973c519f2fe853743daa156f3a8439e5c410cb2a7c874d58883aa09"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01921",
+   "short": "Lei 1921/2013",
+   "title": "Lei nº 1.921, de 22 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2512",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 17,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2512/lei__no_1921.pdf",
+     "sha256": "980426c5ed51c7a2464caabc35856bf12d4be257ce6ee42e9b831611267365dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01919",
+   "short": "Lei 1919/2013",
+   "title": "Lei nº 1.919, de 8 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2510",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2510/lei__no_1919.pdf",
+     "sha256": "233ae68c7f92ef6cffdbb78634ece9c908bb9321f7325201de89a0c3715eb35e"
+    }
+   ]
   }
  ]
 }
