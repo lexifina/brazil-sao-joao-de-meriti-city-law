@@ -1764,6 +1764,552 @@
      "sha256": "4deef03145c3161017f53cc1e33ab1c429e6642592fab0afe4d6f6fafcfd3165"
     }
    ]
+  },
+  {
+   "slug": "lei-2015-02003",
+   "short": "Lei 2003/2015",
+   "title": "Lei nº 2.003, de 16 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/925",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/925/lei_no_2003_de_16_de_junho_de_2015.pdf",
+     "sha256": "9ba1a50b48f6d2f3c49576cf98ab990070ec51e7e2bd341599fce38458f3f303"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02002",
+   "short": "Lei 2002/2015",
+   "title": "Lei nº 2.002, de 16 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/924",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/924/lei_no_2002_de_16_de_junho_de_2015.pdf",
+     "sha256": "f59bf0c3203016c749bf49bd6412c625169b127b4b992378aa8fb23544dd9762"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02001",
+   "short": "Lei 2001/2015",
+   "title": "Lei nº 2.001, de 16 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/923",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/923/lei_no_2001_de_16_de_junho_de_2015.pdf",
+     "sha256": "9ec053cd8d1f510961c21b335ecda2b328bc3cd41a8d645baf721edbf8ae9ad2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02000",
+   "short": "Lei 2000/2015",
+   "title": "Lei nº 2.000, de 2 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/922",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/922/lei_no_2000_de_02_de_junho_de_2015..pdf",
+     "sha256": "e43154d0bf8853bf1035107100a196928c4afc7be1ebb6b7ef740418e65dd858"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01999",
+   "short": "Lei 1999/2015",
+   "title": "Lei nº 1.999, de 2 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/921",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/921/lei_no_1999_de_02_de_junho_de_2015..pdf",
+     "sha256": "a0d5ff90814242b759d8dc54a80c8d3a9ae1630c025ec321f467cdcd9ba69da5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01998",
+   "short": "Lei 1998/2015",
+   "title": "Lei nº 1.998, de 2 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1030",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1030/lei_n_1998_de_02_de_junho_de_2015..pdf",
+     "sha256": "854e3e194520ed10e3c722d41021c2a377578f264bc2f3e25f1ca3111cd15b6b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01997",
+   "short": "Lei 1997/2015",
+   "title": "Lei nº 1.997, de 2 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/920",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/920/lei_n_1997_de_02_de_junho_de_2015..pdf",
+     "sha256": "7a57de356273e24f4bcf00eb9b6430ad869df2f0f69a7fd89c28d5dbf2fb9678"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01996",
+   "short": "Lei 1996/2015",
+   "title": "Lei nº 1.996, de 2 de junho de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/919",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/919/lei_n_1996_de_02_de_junho_de_2015..pdf",
+     "sha256": "89a41ba98cd07b04b86323fdd17fd71b58ac3e973e6d64ed1e7c9d449d08c7b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01995",
+   "short": "Lei 1995/2015",
+   "title": "Lei nº 1.995, de 19 de maio de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/918",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/918/lei_no_1995_de_19_de_maio_de_2015.pdf",
+     "sha256": "0624e7a1326680ddbf3ed5cc18cafc7310128f7d79b0a8dd03acf255ecd1070a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01994",
+   "short": "Lei 1994/2015",
+   "title": "Lei nº 1.994, de 19 de maio de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1031",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1031/lei_no_1994_de_19_de_maio_de_2015.pdf",
+     "sha256": "737fe23fbe409faeab28c02de12412a7b390a4045d24a5339d02b9a177c0e52b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01993",
+   "short": "Lei 1993/2015",
+   "title": "Lei nº 1.993, de 19 de maio de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/917",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 22,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/917/lei_no_1993_de_19_de_maio_de_2015.pdf",
+     "sha256": "1581b5fb47597b565842ccd6850a623697275250a8d6945a79e81d89513b2245"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01992",
+   "short": "Lei 1992/2015",
+   "title": "Lei nº 1.992, de 19 de maio de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/916",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 11,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/916/lei_no_1992_de_19_de_maio_de_2015.pdf",
+     "sha256": "a502b26baf58729d488b2da33ee80ae3c7ce6833f7379404f9ef8876298aed42"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01991",
+   "short": "Lei 1991/2015",
+   "title": "Lei nº 1.991, de 12 de maio de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/915",
+   "versions": [
+    {
+     "from": "2015-05-12",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/915/lei_no_1991_de_12_de_maio_de_2015.pdf",
+     "sha256": "b1f332e5e2431c497d0a5c33c7b20e9fe3c00f5cd7883f9e6d887236f6dbcfb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01989",
+   "short": "Lei 1989/2015",
+   "title": "Lei nº 1.989, de 28 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/913",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/913/lei_no._1989_de_28_de_abril_de_2015..pdf",
+     "sha256": "31e9a27873794c18f18b1dcdde7c75f108ac6df73910598a025f4abb8f075105"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-00171",
+   "short": "LC 171/2015",
+   "title": "Lei Complementar nº 171, de 28 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2535",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/2535/lei_complementar_171.pdf",
+     "sha256": "c4d4f23c01f23ca814ddadbeb0d7edcbf4a400d540fba1853e0db03ed8de628a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01988",
+   "short": "Lei 1988/2015",
+   "title": "Lei nº 1.988, de 14 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/912",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/912/lei_no._1988_de_14_de_abril_de_2015..pdf",
+     "sha256": "bbebe1acfab33cb7dd1fda56af7bc4f987e6cde0290b29fc3d6a48d2b8bc771e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01987",
+   "short": "Lei 1987/2015",
+   "title": "Lei nº 1.987, de 14 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/911",
+   "versions": [
+    {
+     "from": "2015-04-14",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/911/lei_no_1987_14_de_abril_de_2015.pdf",
+     "sha256": "73223f997b323348e15357bce7b5731c3a1e13ba31dc432bd2f41635af397578"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01986",
+   "short": "Lei 1986/2015",
+   "title": "Lei nº 1.986, de 13 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/910",
+   "versions": [
+    {
+     "from": "2015-04-13",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/910/lei_no._1986_de_13_de_abril_de_2015..pdf",
+     "sha256": "134fbc52dd24ff128422779b4c428cb9d348e7c46fc7893062403fc0b8b616da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01985",
+   "short": "Lei 1985/2015",
+   "title": "Lei nº 1.985, de 7 de abril de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/909",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/909/lei_no_1985_de_07_de_abril_de_2015.pdf",
+     "sha256": "5cf4faabc3673ef6a284169247a85fa914cec2dad906b24d14d244e533c417ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01981",
+   "short": "Lei 1981/2015",
+   "title": "Lei nº 1.981, de 10 de março de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/906",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/906/lei_no._1981_de_10_de_marco_de_2015..pdf",
+     "sha256": "0fd79a363ab0bf6e4c657434ecbcdba7fdaac8aa8f1b6ef6fbb3b6d8c82969b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-01980",
+   "short": "Lei 1980/2015",
+   "title": "Lei nº 1.980, de 10 de março de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/905",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/905/lei_no._1980_de_10_de_marco_de_2015..pdf",
+     "sha256": "81501ed54156df6a1e64689cb67f2eb90aa957bfab550bee144193ae7c3d7d77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01978",
+   "short": "Lei 1978/2014",
+   "title": "Lei nº 1.978, de 17 de dezembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/903",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/903/lei_no._1978_de_17_de_dezembro_de_2014..pdf",
+     "sha256": "a4b22b7842804dd8c8b966a8cf6fba0a7276c022912678df4e70d3817bc7a9b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01977",
+   "short": "Lei 1977/2014",
+   "title": "Lei nº 1.977, de 16 de dezembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/902",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/902/lei_no_1977_de_16_de_dezembro_de_2014..pdf",
+     "sha256": "5385fc666f2b014fce8579270ce7ecdd526943fa579f283cfbfe09b36f96175d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01976",
+   "short": "Lei 1976/2014",
+   "title": "Lei nº 1.976, de 2 de dezembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2533",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2533/lei___1976.pdf",
+     "sha256": "b27ab3cb5e5d032ea809d8394142ebc2db822be9b14c55cefdde8aee3d5d604d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01974",
+   "short": "Lei 1974/2014",
+   "title": "Lei nº 1.974, de 25 de novembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/741",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 23,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/741/lei_no.1974_de_25_de_novembro_de_2014..pdf",
+     "sha256": "e1d69486be0b56c7eed91431fde45fd7e9aaf1f7df7fdb02300daef6583d5ebf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01973",
+   "short": "Lei 1973/2014",
+   "title": "Lei nº 1.973, de 25 de novembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2532",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2532/lei___1973.pdf",
+     "sha256": "b5461130018a03ab923dbf2da2506769ccf86fb97989b4672d5ae5a2b7362b1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01972",
+   "short": "Lei 1972/2014",
+   "title": "Lei nº 1.972, de 18 de novembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/740",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/740/lei_no._1972_de_18_de_novembro_de_2014..pdf",
+     "sha256": "6acc471c3f7657cd787d09603578104a70165b87cf42ef6ddf4e31d8fb2457d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01971",
+   "short": "Lei 1971/2014",
+   "title": "Lei nº 1.971, de 11 de novembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2531",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2531/lei___1971.pdf",
+     "sha256": "dfcabe2671f1c9060cbe2df220b3997942b06cb3beea053627e7093b81c26a24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01970",
+   "short": "Lei 1970/2014",
+   "title": "Lei nº 1.970, de 11 de novembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2530",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2530/lei___1970.pdf",
+     "sha256": "bb379bccebc8b0394e7e009949a16f5284f814195a9d6e7ff8e84ae8a6485ea6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01969",
+   "short": "Lei 1969/2014",
+   "title": "Lei nº 1.969, de 22 de outubro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2529",
+   "versions": [
+    {
+     "from": "2014-10-22",
+     "units": 44,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/2529/lei___1969.pdf",
+     "sha256": "492b128a331a3a01a54ad47f40e2d4c2ed3c7655b92973377a800b3b57bc3529"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01968",
+   "short": "Lei 1968/2014",
+   "title": "Lei nº 1.968, de 30 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/739",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/739/lei_no._1968_de_30_de_setembro_de_2014..pdf",
+     "sha256": "8f0c0c5006a586c295de960acbe5a0d7c4e0cc5ec4f59bb44c74da869ec09213"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01967",
+   "short": "Lei 1967/2014",
+   "title": "Lei nº 1.967, de 16 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/738",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/738/lei_no._1967_de_16_de_setembro_de_2014..pdf",
+     "sha256": "f12f882eda1e0c0dd43a8d8809e4b7fb139d1cd46aadcfc1ff1e41b3bf5fe4df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01966",
+   "short": "Lei 1966/2014",
+   "title": "Lei nº 1.966, de 16 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/737",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/737/lei_no._1966_de_16_de_setembro_de_2014..pdf",
+     "sha256": "bcf81b35f9cf203baa8a2be95bebb000eacc4c2b6db7277d1e19924b0c66a6ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01965",
+   "short": "Lei 1965/2014",
+   "title": "Lei nº 1.965, de 9 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/736",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/736/lei_no._1965_de_09_de_setembro_de_2014..pdf",
+     "sha256": "04e18e7ac793b34108b236bd81499882b2190fcacb7dd304232849a75a1d2ed5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01964",
+   "short": "Lei 1964/2014",
+   "title": "Lei nº 1.964, de 2 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/735",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/735/lei_no._1964_de_02_de_setembro_de_2014..pdf",
+     "sha256": "a05011785c661e495ac52b829ec4755213c5fc85dda4cd578588e3cddff249d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01963",
+   "short": "Lei 1963/2014",
+   "title": "Lei nº 1.963, de 2 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/734",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/734/lei_no._1963_de_02_de_setembro_de_2014..pdf",
+     "sha256": "b6c6e5fa5200bd6bdbbedb168b7cdf0bb1dbb0983dce8338971ef34ff6a9321f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01962",
+   "short": "Lei 1962/2014",
+   "title": "Lei nº 1.962, de 2 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/733",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/733/lei_no._1962_de_02_de_setembro_de_2014..pdf",
+     "sha256": "bbba724987f233651b40310f354d7dfe22f709b7b273f8ad23267e5c6f5a3184"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01961",
+   "short": "Lei 1961/2014",
+   "title": "Lei nº 1.961, de 2 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/732",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/732/lei_no._1961_de_02_de_setembro_de_2014..pdf",
+     "sha256": "a881072f5ae3310bbfdeb9be4ee21058cba472df8a0be12f0184b13cd76d127c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-01960",
+   "short": "Lei 1960/2014",
+   "title": "Lei nº 1.960, de 2 de setembro de 2014",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/731",
+   "versions": [
+    {
+     "from": "2014-09-02",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2014/731/lei_no._1960_de_02_de_setembro_de_2014..pdf",
+     "sha256": "b3578d184e74390d7039ee532271217f663e3177df6735667e33b2f8d7a00052"
+    }
+   ]
   }
  ]
 }
