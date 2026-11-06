@@ -154,6 +154,440 @@
      "sha256": "4e62e6f9bb9b5db807e2add5b293fccd8258577cd26a6c28bf5c7bd60b003744"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-02284",
+   "short": "Lei 2284/2021",
+   "title": "Lei nº 2.284, de 21 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/354",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/354/lei_2284_-_dispoe_sobre_acao_regressiva_do_municipio__sobre_servidor_publico_-_dr_joao.pdf",
+     "sha256": "ad96c1d6c473e68a0f7be70db0443584b52a42bac7befd5774f87288f774350a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02282",
+   "short": "Lei 2282/2021",
+   "title": "Lei nº 2.282, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/352",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/352/lei_2282_-_escola_comunitaria_-_allan_cruz.pdf",
+     "sha256": "146a0d937e491acc337662f00574d6356c12be1a76ebf781391840011038864a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02281",
+   "short": "Lei 2281/2021",
+   "title": "Lei nº 2.281, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/351",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/351/lei_2281_-_semana_do_empreendorismo_feminino_-_dra_leticia_costa.pdf",
+     "sha256": "fb04500555bcfc748aa81b662108feee17b21334657ddf3e761070fbbd18484f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02280",
+   "short": "Lei 2280/2021",
+   "title": "Lei nº 2.280, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/350",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/350/lei_2280_-_dia_municipal_do_obreiro_universal_-_allan_cruz.pdf",
+     "sha256": "c65d81d2a63127e147f48c4dbff8ccd01e4e088e9bc765a62b99fc3745154c3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02279",
+   "short": "Lei 2279/2021",
+   "title": "Lei nº 2.279, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/349",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/349/lei_2279_-_dia_da_umbanda_e_do_umbandista_-_dudu_padrinho.pdf",
+     "sha256": "1234f210514362087e8bb33ac2191a2d7bdeb2380859937e5e2e5d0bcbdad4a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02278",
+   "short": "Lei 2278/2021",
+   "title": "Lei nº 2.278, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1171",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/1171/lei_no_2.278_de_14_de_setembro_de_2021.pdf",
+     "sha256": "bde14d29a5879726b618f9088e18bf4143eaf97b9f68a18c69f21f61df3af773"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02277",
+   "short": "Lei 2277/2021",
+   "title": "Lei nº 2.277, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/348",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/348/lei_2277_-_calendario_-_dia_das_tradicoes_das_raizes_de_matrizes_africanas_e_nacoes_do_candomble_-_dudu_padrinho.pdf",
+     "sha256": "28d25dc0dbd9f2bea086483b7ea7e912b398ecfe4afd198779853e4ee07b3601"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02276",
+   "short": "Lei 2276/2021",
+   "title": "Lei nº 2.276, de 14 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/347",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/347/lei_2276_-__semana_de_conscientizacao_e_combate_ao_feminicidio_-_dra_leticia_costa.pdf",
+     "sha256": "aa4428cc37fb225fd8ef586134dc16014fe2ea52d3bc80652351d7f5f581ecee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02275",
+   "short": "Lei 2275/2021",
+   "title": "Lei nº 2.275, de 18 de agosto de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/346",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/346/lei_2275_-_denominacao_logradouro_publico_-_jefferson_martin.pdf",
+     "sha256": "58e60acd059fd8fe8bf30b529716fd45c80813e9df5cd5cd2fce9ee794d22daf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02274",
+   "short": "Lei 2274/2021",
+   "title": "Lei nº 2.274, de 18 de agosto de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/345",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/345/lei_2274_-_denominacao_logradouro_publico_-_jefferson_martin.pdf",
+     "sha256": "13e52a0a2875b0f0e82784d0f98a15d40dd504128923628d555db62da8e1a74d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02268",
+   "short": "Lei 2268/2021",
+   "title": "Lei nº 2.268, de 29 de junho de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/339",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/339/lei_2268_-_denominacao_logradouro_publico_-_francisco_costa_-_dra_leticia_costa._promulgar.pdf",
+     "sha256": "c14c06db1766552d8802c457de0f1c79f5b6c2c055211d99292ba3d88416e86a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02265",
+   "short": "Lei 2265/2021",
+   "title": "Lei nº 2.265, de 25 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/336",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/336/lei_2265_-_autoriza_a_instalacao_do_centro_tecnocologico_na_praca_dos_tres_poderes_-_prefeito.pdf",
+     "sha256": "d18bed705925e71faf760e651fcd1325d0a76893afcb21be03311ee3d62b9b9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02263",
+   "short": "Lei 2263/2021",
+   "title": "Lei nº 2.263, de 25 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/335",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/335/lei_2263_-_programa_de_diabetes_infantil_-_renato_pimenta_-_promulgada.pdf",
+     "sha256": "0de726c73a4543530cc323fa23887849888395e6866bfb034e4793cb0f906a1a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02262",
+   "short": "Lei 2262/2021",
+   "title": "Lei nº 2.262, de 25 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/334",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/334/lei_2262_-_preservacao_da_memoria_de_joao_candido_felisberto_-_jorge_luiz_lima_florencio_kbca_-_promulgada.pdf",
+     "sha256": "f06cb38ff32665347a65fe8fff0916235a08a3fec8faf2f4bfb098005d9defa2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02260",
+   "short": "Lei 2260/2021",
+   "title": "Lei nº 2.260, de 25 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/333",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/333/lei_2260_-_nocoes_basicas_da_lei_maria_da_penha_nas_escolas_-_giovani_leite_de_abreu_jr._-_promulgada.pdf",
+     "sha256": "0cd7861e4242f3e570e240cb08c4c0a8287fa21b6bcaecadce9a3fbb670b2fbf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02259",
+   "short": "Lei 2259/2021",
+   "title": "Lei nº 2.259, de 25 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/332",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/332/lei_2259_-_denominacao_logradouro_publico_-_rogerio_fernandes_-_republicacao.pdf",
+     "sha256": "64ec5685f0ea67db9c7e20e79fff37e184e41bc834232322e966e2327bc35033"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02258",
+   "short": "Lei 2258/2021",
+   "title": "Lei nº 2.258, de 18 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/331",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/331/lei_2258_-_denominacao_logradouro_publico_-_rogerio_fernandes.pdf",
+     "sha256": "2610879ff62a3f7180a74d15000b822c25b4eaffd41cda1fe030c93571cb424b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02257",
+   "short": "Lei 2257/2021",
+   "title": "Lei nº 2.257, de 18 de maio de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/330",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/330/lei_2257_-_denominacao_logradouro_publico_-_retificada_-_rodrigo_pit.pdf",
+     "sha256": "66af02474d2ba8bc03ed96c6a9a68b7046542df9aec8120b3470cf37919cc0ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02256",
+   "short": "Lei 2256/2021",
+   "title": "Lei nº 2.256, de 9 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/329",
+   "versions": [
+    {
+     "from": "2021-03-09",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/329/lei_2256_-_denominacao_logradouro_publico.pdf",
+     "sha256": "df77689ae1da79ed9af822f30ed11c78bd1ae85cc3e150de9fc8b6fe359b982b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02253",
+   "short": "Lei 2253/2021",
+   "title": "Lei nº 2.253, de 9 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/327",
+   "versions": [
+    {
+     "from": "2021-03-09",
+     "units": 10,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/327/lei_2253_-_institui_o_programa_remedio_em_casa_-_dra_leticia_costa_-_promulgada.pdf",
+     "sha256": "8bed36fb9c2470382126faaf4c074d60f32c9ecc813337e15aea15691570f163"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02251",
+   "short": "Lei 2251/2021",
+   "title": "Lei nº 2.251, de 9 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/325",
+   "versions": [
+    {
+     "from": "2021-03-09",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/325/lei_2251_-_programa_de_saude_mental_para_os_professores_-_giovani_ratinho_-_promulgada.pdf",
+     "sha256": "292fdf2fbdcbbd268c2d73f266985558fcd55f22c03606b685e23cd9536e4618"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02254",
+   "short": "Lei 2254/2021",
+   "title": "Lei nº 2.254, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1170",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/1170/lei_no_2.254_de_02_de_marco_de_2021..pdf",
+     "sha256": "cdd74da48259daf9f9439fb129c2a0b8020b59ac60cd37e2a4b1209ecbfd52dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02252",
+   "short": "Lei 2252/2021",
+   "title": "Lei nº 2.252, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/326",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/326/lei_2252_-_denominacao_logradouro_publico.pdf",
+     "sha256": "6c381131307da7937f0fdefcf0d49987854719b29cdcf9c95b306412dcd3dd66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02250",
+   "short": "Lei 2250/2021",
+   "title": "Lei nº 2.250, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/324",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/324/lei_2250_-_calendario_de_lazer_acessivel_-_giovani_ratinho_-_promulgada.pdf",
+     "sha256": "2948ad83ab6f8f999fbb88ff4fdaf42280a9465cb446f4a087e88c71c27c040c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02249",
+   "short": "Lei 2249/2021",
+   "title": "Lei nº 2.249, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/323",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/323/lei_2249_-_desafeta_trecho_av._canal.pdf",
+     "sha256": "dd482e24e2fe983b43990c4c6851dac887213881cbf815387b7b77316dada98a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02247",
+   "short": "Lei 2247/2021",
+   "title": "Lei nº 2.247, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/321",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/321/lei_2247_-_denominacao_logradouro_publico.pdf",
+     "sha256": "cd0a46f0322a4d147f31d5bd6a1d7b3668e5ebad5f472a8f896ff7e8bc3df8bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02243",
+   "short": "Lei 2243/2021",
+   "title": "Lei nº 2.243, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/317",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 80,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/317/lei_2243_-_sistema_munic._ensino.pdf",
+     "sha256": "09d18e8d0d02e7fe452c47e7e1a7c489f6aeb9876a3ae7ed090af6662824509e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00203",
+   "short": "LC 203/2021",
+   "title": "Lei Complementar nº 203, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/314",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/314/lei_complementar_203_-_altera_anexos_i_e_ii_lc_199.pdf",
+     "sha256": "7123beb2d23e6d6699b04df7eeed71b845912db462a45b345d1714bfbf6386b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00202",
+   "short": "LC 202/2021",
+   "title": "Lei Complementar nº 202, de 2 de março de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/313",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/313/lei_complementar_202_-_altera_art.7o_da_lc_188.pdf",
+     "sha256": "646bbb22ae1b81dfe7e66107a17b4582e335b345e015d7d6ec22c9fa11abe835"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02238",
+   "short": "Lei 2238/2020",
+   "title": "Lei nº 2.238, de 16 de dezembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/311",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/311/lei_2238_-_denominacao_logradouro_publico.pdf",
+     "sha256": "0fbea16d8fb65ebb5084270c22f20d23e8330e07f93506e3bf2352e32500418d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00199",
+   "short": "LC 199/2020",
+   "title": "Lei Complementar nº 199, de 16 de dezembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/289",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 18,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/289/lei_complementar_199_-_contratacao_temporaria.pdf",
+     "sha256": "3c57e428c80e37c8b0885463d46f27bc78d813e46aa9f2b6c85c9c397643f138"
+    }
+   ]
   }
  ]
 }
