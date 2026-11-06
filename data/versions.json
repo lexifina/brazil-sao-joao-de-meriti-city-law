@@ -2926,6 +2926,580 @@
      "sha256": "233ae68c7f92ef6cffdbb78634ece9c908bb9321f7325201de89a0c3715eb35e"
     }
    ]
+  },
+  {
+   "slug": "lei-2013-01918",
+   "short": "Lei 1918/2013",
+   "title": "Lei nº 1.918, de 8 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2509",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2509/lei__no_1918.pdf",
+     "sha256": "9794fe96936d96acc16e367fed3d3dbb1b4474388110b5acf0fdbd8448da3b29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01917",
+   "short": "Lei 1917/2013",
+   "title": "Lei nº 1.917, de 8 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2508",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2508/lei__no_1917.pdf",
+     "sha256": "8bf232fabdb94889baecda58631e7d00f46289995d4b7fb830cfb22f661d620b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01916",
+   "short": "Lei 1916/2013",
+   "title": "Lei nº 1.916, de 8 de outubro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2507",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2507/lei__no_1916.pdf",
+     "sha256": "d294a5b87b8e66982923105823689a8f883bce11d1e022061a9b83c8678de72c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01915",
+   "short": "Lei 1915/2013",
+   "title": "Lei nº 1.915, de 18 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2506",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2506/lei__no_1915.pdf",
+     "sha256": "aacde4780404fa8767e50d33ddea6c7cabf99b7479df68b2fe2e5b141d47fcd1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01914",
+   "short": "Lei 1914/2013",
+   "title": "Lei nº 1.914, de 18 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2505",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 19,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2505/lei__no_1914.pdf",
+     "sha256": "bacd7b76b4b69aed35fd6e02cfdff8432108365ae359a810889cc00f2f61291f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01913",
+   "short": "Lei 1913/2013",
+   "title": "Lei nº 1.913, de 18 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2504",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 75,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2504/lei__no_1913.pdf",
+     "sha256": "e622d60e025b3f16d6b5c394ce649ff3d9195aeb9cefd985652190b2e4edcc60"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01912",
+   "short": "Lei 1912/2013",
+   "title": "Lei nº 1.912, de 11 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2503",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2503/lei__no_1912.pdf",
+     "sha256": "1314fb2961082ab857133ba110212288dc32e249643b913347ebd17b19e95f41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01911",
+   "short": "Lei 1911/2013",
+   "title": "Lei nº 1.911, de 11 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2502",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2502/lei__no_1911.pdf",
+     "sha256": "a5b646d210a8787959db0c548a18fd6c249761cef238c57c93c9c54f9f0f86b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01910",
+   "short": "Lei 1910/2013",
+   "title": "Lei nº 1.910, de 11 de setembro de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2501",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2501/lei__no_1910.pdf",
+     "sha256": "932cde6c80669abbda24633b45b695f0709de6c158ab98d9c08f2a079bca3520"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01924",
+   "short": "Lei 1924/2013",
+   "title": "Lei nº 1.924, de 29 de agosto de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/617",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/617/lei_n.o_1924_de_29_de_outubro_de_2013..pdf",
+     "sha256": "b96d0ad22422d3edf9d74ec22ccbeab047e83ff3b0e39e2de4a66f352d6f05cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01909",
+   "short": "Lei 1909/2013",
+   "title": "Lei nº 1.909, de 27 de agosto de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2500",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2500/lei__no_1909.pdf",
+     "sha256": "212954fcbd807d0bfa32b094111326f5b1311b78ae8bac7e4b9de7ec1d03e78a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01908",
+   "short": "Lei 1908/2013",
+   "title": "Lei nº 1.908, de 27 de agosto de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/616",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 13,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/616/lei_no_1908_de_27_de_agosto_de_2013..pdf",
+     "sha256": "182ffe1cf81cf5bea5d02e9865943d8b0c90c7f9a265a466ded0bc2d085e48a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01907",
+   "short": "Lei 1907/2013",
+   "title": "Lei nº 1.907, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/615",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/615/lei_no.1907_de_16_de_julho_de_2013..pdf",
+     "sha256": "7525e896a0dbc6edf4b65a97dc3d6f92870ccc00510ad40dd5920fa8707aaa07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01906",
+   "short": "Lei 1906/2013",
+   "title": "Lei nº 1.906, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2499",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 33,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2499/lei__no_1906.pdf",
+     "sha256": "c99c8a1871a2145f2bc64b170e3a8c862a1fcbd4e342f55c03194a97a48c15ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01905",
+   "short": "Lei 1905/2013",
+   "title": "Lei nº 1.905, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2498",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2498/lei__no_1905.pdf",
+     "sha256": "df093502a7602004b61fafe26fd68dc742bfa14ad847918bb0b36d3533476fc7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01903",
+   "short": "Lei 1903/2013",
+   "title": "Lei nº 1.903, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2496",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2496/lei__no_1903.pdf",
+     "sha256": "c2905ee2f8af59770c7a7a1df17379a8befe8c0b6c3cc2c8a581166c745a0038"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01902",
+   "short": "Lei 1902/2013",
+   "title": "Lei nº 1.902, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/613",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/613/lei_n.o_1902_de_16_de_julho_de_2013..pdf",
+     "sha256": "9841121e26c578aae7bbc38061f6946497e411b14a4839f111f4dee1a53249ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01901",
+   "short": "Lei 1901/2013",
+   "title": "Lei nº 1.901, de 16 de julho de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2495",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2495/lei__no_1901.pdf",
+     "sha256": "01880281cdffb9b4a2c16ec03caae1eb042977300c440fd5503ae52bd64fac15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01895",
+   "short": "Lei 1895/2013",
+   "title": "Lei nº 1.895, de 28 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/611",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/611/lei_n.o_1895_de_28_de_maio_de_2013..pdf",
+     "sha256": "4221d401d61692d26a778f4ffd021440fd8f59e359ee74a793f1466f47e27091"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01894",
+   "short": "Lei 1894/2013",
+   "title": "Lei nº 1.894, de 22 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/610",
+   "versions": [
+    {
+     "from": "2013-05-22",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/610/lei_n.o_1894_de_22_de_maio_de_2013..pdf",
+     "sha256": "88afdcc79ceafc9391a72324fc2439ab4cf34053791ab3e553e7011bfc33a768"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01892",
+   "short": "Lei 1892/2013",
+   "title": "Lei nº 1.892, de 21 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/608",
+   "versions": [
+    {
+     "from": "2013-05-21",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/608/lei_n.o_1892_de_21_de_maio_de_2013..pdf",
+     "sha256": "04de483769a15a40d5e90596facddcd4635f9e9348ed15a0fa8cf7305f01d55e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01891",
+   "short": "Lei 1891/2013",
+   "title": "Lei nº 1.891, de 21 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/607",
+   "versions": [
+    {
+     "from": "2013-05-21",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/607/lei_n.o_1891_de_21_de_maio_de_2013..pdf",
+     "sha256": "aad865bc93c3846269fab2d2e8969eb2a501d6150face26f763a538fa8d8a01a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01890",
+   "short": "Lei 1890/2013",
+   "title": "Lei nº 1.890, de 21 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/606",
+   "versions": [
+    {
+     "from": "2013-05-21",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/606/lei_n.o_1890_de_21_de_maio_de_2013..pdf",
+     "sha256": "40de0fd0cc325309e4daf5b84b5e5a14c19520f726bc59890f4c9b8723f8ca59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01889",
+   "short": "Lei 1889/2013",
+   "title": "Lei nº 1.889, de 8 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/605",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/605/lei_no.1889_de_08_de_maio_de_2013..pdf",
+     "sha256": "a221d96954ad3f128bab4ce98a7b427ed7778d2807c05234fcb6a456cbf58c92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01888",
+   "short": "Lei 1888/2013",
+   "title": "Lei nº 1.888, de 8 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/604",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/604/lei_no.1888_de_08_de_maio_de_2013..pdf",
+     "sha256": "7d128dde40f82d0ad37775a25b560c7e8388a57c689f6ff792ba5d681c1c7032"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01887",
+   "short": "Lei 1887/2013",
+   "title": "Lei nº 1.887, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/603",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/603/lei_n.o_1887_de_07_de_maio_de_2013..pdf",
+     "sha256": "fda3f04dc82b334ae568b8063de4b1f528027138189ad0bbc2b12c5c433c2d78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01886",
+   "short": "Lei 1886/2013",
+   "title": "Lei nº 1.886, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/602",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/602/lei_n.o_1886_de_07_de_maio_de_2013..pdf",
+     "sha256": "6b304ea9a957d60ab7e982c59610ef440182035dab33b02dbf68e875d14da1e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01885",
+   "short": "Lei 1885/2013",
+   "title": "Lei nº 1.885, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/601",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/601/lei_n.o_1885_de_07_de_maio_de_2013..pdf",
+     "sha256": "b15cb26486ced6ffb892934c5d17dfe1253dae7b649b562685ea68c93e9d4082"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01883",
+   "short": "Lei 1883/2013",
+   "title": "Lei nº 1.883, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/599",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/599/lei_n.o_1883_de_07_de_maio_de_2013..pdf",
+     "sha256": "7b84d5af65197873897e217313fbf4fde064f5d594e1e4acabbf7d1aeae74e0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01882",
+   "short": "Lei 1882/2013",
+   "title": "Lei nº 1.882, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/598",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/598/lei_n.o_1882_de_07_de_maio_de_2013..pdf",
+     "sha256": "e1c45d4791cd7a039d2f975349429d33e53afb817e69c8abd351831725bd7463"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01881",
+   "short": "Lei 1881/2013",
+   "title": "Lei nº 1.881, de 7 de maio de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/597",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/597/lei_no.1881_de_07_de_maio_de_2013..pdf",
+     "sha256": "33c7cacbdfafb985a3e3f16ce2295fe505cedaf1557fd2f5743d109d48d59a44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01880",
+   "short": "Lei 1880/2013",
+   "title": "Lei nº 1.880, de 17 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/596",
+   "versions": [
+    {
+     "from": "2013-04-17",
+     "units": 10,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/596/lei_n.o_1880_de_17_de_abril_de_2013..pdf",
+     "sha256": "108456d135f40220cc75465ebc7319d8f5071e161305279e0997f9149cbe8ce2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01878",
+   "short": "Lei 1878/2013",
+   "title": "Lei nº 1.878, de 10 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/594",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/594/lei_n.o_1878_de_10_de_abril_de_2013..pdf",
+     "sha256": "2e529ae1160ba00cdb39b93f0404cef4c563076896e8198e43883ca5950dfbca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01877",
+   "short": "Lei 1877/2013",
+   "title": "Lei nº 1.877, de 10 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/593",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/593/lei_n.o_1877_de_10_de_abril_de_2013..pdf",
+     "sha256": "13f5ebc91a83c2359dfec4f7c62086f16378100b411510addc9d7f2f92b4f300"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01876",
+   "short": "Lei 1876/2013",
+   "title": "Lei nº 1.876, de 10 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/592",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/592/lei_n.o_1876_de_10_de_abril_de_2013..pdf",
+     "sha256": "5e644c8a66d13f331453038e0656a70f9746ad8ae80ab0edf8e228271b571092"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01875",
+   "short": "Lei 1875/2013",
+   "title": "Lei nº 1.875, de 10 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/591",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/591/lei_n.o_1875_de_10_de_abril_de_2013..pdf",
+     "sha256": "89182faea41798a2c85f39c7f716ec0711fd824b8f80775f7280daa42e2cb9cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01874",
+   "short": "Lei 1874/2013",
+   "title": "Lei nº 1.874, de 2 de abril de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2494",
+   "versions": [
+    {
+     "from": "2013-04-02",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2494/lei__no_1874.pdf",
+     "sha256": "9097b5d618caca5999a7692735769c00a1d82b790eec49cbd9645ae62b294185"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01873",
+   "short": "Lei 1873/2013",
+   "title": "Lei nº 1.873, de 26 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2493",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2493/lei__no_1873.pdf",
+     "sha256": "88a2962ae87d78792d245996ca0b4f6bbf3f0ee92078dd3269df7764c3a86aeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01872",
+   "short": "Lei 1872/2013",
+   "title": "Lei nº 1.872, de 26 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/590",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/590/lei_n.o_1872_de_26_de_marco_de_2013..pdf",
+     "sha256": "6c45c3af80b6ff624793ae323059fb69ba2803c6e20e931e1d7d90f3926e09fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01871",
+   "short": "Lei 1871/2013",
+   "title": "Lei nº 1.871, de 20 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/589",
+   "versions": [
+    {
+     "from": "2013-03-20",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/589/lei_n.o_1871_de_20_de_marco_de_2013..pdf",
+     "sha256": "c7e02b1380f9092829116cd723008e40652f2a2c48b905881f14be95339972c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01870",
+   "short": "Lei 1870/2013",
+   "title": "Lei nº 1.870, de 20 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/588",
+   "versions": [
+    {
+     "from": "2013-03-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/588/lei_n.o_1870_de_20_de_marco_de_2013..pdf",
+     "sha256": "7deb2bcb4be2e42c25a2a32da9252186e76320f4165e06ab0b6258956b2014b6"
+    }
+   ]
   }
  ]
 }

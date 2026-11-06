@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de São João de Meriti, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saojoaodemeriti.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de São João de Meriti, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saojoaodemeriti.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São João de Meriti, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saojoaodemeriti.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de São João de Meriti, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saojoaodemeriti.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São João de Meriti, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saojoaodemeriti.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de São João de Meriti, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saojoaodemeriti.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de São João de Meriti, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saojoaodemeriti.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de São João de Meriti, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saojoaodemeriti.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -233,20 +234,61 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2013-01922` | Lei nº 1.922, de 22 de outubro de 2013 | 1 | 2013-10-22 to 2013-10-22 |
 | `lei-2013-01921` | Lei nº 1.921, de 22 de outubro de 2013 | 1 | 2013-10-22 to 2013-10-22 |
 | `lei-2013-01919` | Lei nº 1.919, de 8 de outubro de 2013 | 1 | 2013-10-08 to 2013-10-08 |
+| `lei-2013-01918` | Lei nº 1.918, de 8 de outubro de 2013 | 1 | 2013-10-08 to 2013-10-08 |
+| `lei-2013-01917` | Lei nº 1.917, de 8 de outubro de 2013 | 1 | 2013-10-08 to 2013-10-08 |
+| `lei-2013-01916` | Lei nº 1.916, de 8 de outubro de 2013 | 1 | 2013-10-08 to 2013-10-08 |
+| `lei-2013-01915` | Lei nº 1.915, de 18 de setembro de 2013 | 1 | 2013-09-18 to 2013-09-18 |
+| `lei-2013-01914` | Lei nº 1.914, de 18 de setembro de 2013 | 1 | 2013-09-18 to 2013-09-18 |
+| `lei-2013-01913` | Lei nº 1.913, de 18 de setembro de 2013 | 1 | 2013-09-18 to 2013-09-18 |
+| `lei-2013-01912` | Lei nº 1.912, de 11 de setembro de 2013 | 1 | 2013-09-11 to 2013-09-11 |
+| `lei-2013-01911` | Lei nº 1.911, de 11 de setembro de 2013 | 1 | 2013-09-11 to 2013-09-11 |
+| `lei-2013-01910` | Lei nº 1.910, de 11 de setembro de 2013 | 1 | 2013-09-11 to 2013-09-11 |
+| `lei-2013-01924` | Lei nº 1.924, de 29 de agosto de 2013 | 1 | 2013-08-29 to 2013-08-29 |
+| `lei-2013-01909` | Lei nº 1.909, de 27 de agosto de 2013 | 1 | 2013-08-27 to 2013-08-27 |
+| `lei-2013-01908` | Lei nº 1.908, de 27 de agosto de 2013 | 1 | 2013-08-27 to 2013-08-27 |
+| `lei-2013-01907` | Lei nº 1.907, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01906` | Lei nº 1.906, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01905` | Lei nº 1.905, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01903` | Lei nº 1.903, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01902` | Lei nº 1.902, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01901` | Lei nº 1.901, de 16 de julho de 2013 | 1 | 2013-07-16 to 2013-07-16 |
+| `lei-2013-01895` | Lei nº 1.895, de 28 de maio de 2013 | 1 | 2013-05-28 to 2013-05-28 |
+| `lei-2013-01894` | Lei nº 1.894, de 22 de maio de 2013 | 1 | 2013-05-22 to 2013-05-22 |
+| `lei-2013-01892` | Lei nº 1.892, de 21 de maio de 2013 | 1 | 2013-05-21 to 2013-05-21 |
+| `lei-2013-01891` | Lei nº 1.891, de 21 de maio de 2013 | 1 | 2013-05-21 to 2013-05-21 |
+| `lei-2013-01890` | Lei nº 1.890, de 21 de maio de 2013 | 1 | 2013-05-21 to 2013-05-21 |
+| `lei-2013-01889` | Lei nº 1.889, de 8 de maio de 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `lei-2013-01888` | Lei nº 1.888, de 8 de maio de 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `lei-2013-01887` | Lei nº 1.887, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01886` | Lei nº 1.886, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01885` | Lei nº 1.885, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01883` | Lei nº 1.883, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01882` | Lei nº 1.882, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01881` | Lei nº 1.881, de 7 de maio de 2013 | 1 | 2013-05-07 to 2013-05-07 |
+| `lei-2013-01880` | Lei nº 1.880, de 17 de abril de 2013 | 1 | 2013-04-17 to 2013-04-17 |
+| `lei-2013-01878` | Lei nº 1.878, de 10 de abril de 2013 | 1 | 2013-04-10 to 2013-04-10 |
+| `lei-2013-01877` | Lei nº 1.877, de 10 de abril de 2013 | 1 | 2013-04-10 to 2013-04-10 |
+| `lei-2013-01876` | Lei nº 1.876, de 10 de abril de 2013 | 1 | 2013-04-10 to 2013-04-10 |
+| `lei-2013-01875` | Lei nº 1.875, de 10 de abril de 2013 | 1 | 2013-04-10 to 2013-04-10 |
+| `lei-2013-01874` | Lei nº 1.874, de 2 de abril de 2013 | 1 | 2013-04-02 to 2013-04-02 |
+| `lei-2013-01873` | Lei nº 1.873, de 26 de março de 2013 | 1 | 2013-03-26 to 2013-03-26 |
+| `lei-2013-01872` | Lei nº 1.872, de 26 de março de 2013 | 1 | 2013-03-26 to 2013-03-26 |
+| `lei-2013-01871` | Lei nº 1.871, de 20 de março de 2013 | 1 | 2013-03-20 to 2013-03-20 |
+| `lei-2013-01870` | Lei nº 1.870, de 20 de março de 2013 | 1 | 2013-03-20 to 2013-03-20 |
 
-The build made 209 commits:
+The build made 250 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 209 | first version of an act |
+| 250 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 209 laws in the record.
-- 418 tags.
+- 250 laws in the record.
+- 500 tags.
 
 ## Dates
 
@@ -258,7 +300,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `23bcf76d336c5aef9cdfda32896deb435b6acc75ce68391890e327986f464f41` (1017342 bytes).
+- Corpus: sha256 `90bb61e1036f81c3c3362322a79b0e2cda305bde67f2213ac3aa24c92403de84` (1227740 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -303,6 +345,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -313,6 +358,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
