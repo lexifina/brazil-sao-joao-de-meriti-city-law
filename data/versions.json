@@ -1260,6 +1260,90 @@
      "sha256": "bfa2e9089197fe1cae4719a512f194b9c824d29a3614ebeb66965cd0d476ea0a"
     }
    ]
+  },
+  {
+   "slug": "lei-2017-02143",
+   "short": "Lei 2143/2017",
+   "title": "Lei nº 2.143, de 4 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1145",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1145/lei_n_2.143_de_04_de_abril_de_2017..pdf",
+     "sha256": "9e207810ef896facbad90bc8045992e9fa5e2ed34c65bab71dad5ed900a0e4ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02142",
+   "short": "Lei 2142/2017",
+   "title": "Lei nº 2.142, de 28 de março de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1169",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 18,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1169/lei_no_2.142_de_28_de_marco_de_2017..pdf",
+     "sha256": "2021abdf6eb33c415340894aada0848e113e3e5c610e3cfdeccb7dc82cb29f19"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02125",
+   "short": "Lei 2125/2016",
+   "title": "Lei nº 2.125, de 29 de novembro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1097",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1097/lei_no_2.125_de_29_de_novembro_de_2016.pdf",
+     "sha256": "826d2eaf3530f28eea516cc8edb8b7ced87a7474c2dbf3ff6c3259225545945c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02123",
+   "short": "Lei 2123/2016",
+   "title": "Lei nº 2.123, de 29 de novembro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1095",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1095/lei_no_2.123_de_29_de_novembro_de_2016.pdf",
+     "sha256": "0c23494036ef7648135533d1e56a3a21121745da24b19f7a5f4fd5d2e18696ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02107",
+   "short": "Lei 2107/2016",
+   "title": "Lei nº 2.107, de 7 de junho de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1079",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1079/lei_no_2.107_de_07_de_junho_de_2016..pdf",
+     "sha256": "abb87dd560ce8049b28a5a04d3d7cdf836a0f5c516589f7dfeb9d464abb72cc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02104",
+   "short": "Lei 2104/2016",
+   "title": "Lei nº 2.104, de 24 de maio de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1076",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1076/lei_no_2.104_de_24_de_maio_de_2016..pdf",
+     "sha256": "53a60e732839eb2191ded3f69ba6b25697ebd3addcc85b7dbd241147a63d712a"
+    }
+   ]
   }
  ]
 }
