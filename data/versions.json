@@ -28,6 +28,132 @@
      "sha256": "0df57eacd77730f67cc195b450d72729fb74c0ca21f438733e63da2b8eb25a6b"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-02335",
+   "short": "Lei 2335/2022",
+   "title": "Lei nº 2.335, de 14 de junho de 2022",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2584",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 35,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2022/2584/lei_no_2.335_de_14_de_junho_de_2022.pdf",
+     "sha256": "d76477e3f0da6c9992c7503a96e3f22f2ca75e2844283f09a1ef548f9b645402"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02292",
+   "short": "Lei 2292/2021",
+   "title": "Lei nº 2.292, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1199",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/1199/lei_no_2.292_de_09_de_novembro_de_2021.pdf",
+     "sha256": "1036f649829b1475dd30cd72c2c498b1d8d8bd311a28291c53b00901ddf31847"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02291",
+   "short": "Lei 2291/2021",
+   "title": "Lei nº 2.291, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/360",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/360/lei_2291_-_uso_de_imovel_para_a_fundacao_anita_mantuano_de_artes_do_rj_-_prefeito.pdf",
+     "sha256": "ed2d1e14c7f045512d7657de050073943366e4794e4e48a1e0b47a102ecf98d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02290",
+   "short": "Lei 2290/2021",
+   "title": "Lei nº 2.290, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1195",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/1195/lei_no_2.290_de_09_de_novembro_de_2021.pdf",
+     "sha256": "1ceb821a7d264518232dfcdb7f17d56f436b9f664a5300a02a6853cc51c53fb4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02289",
+   "short": "Lei 2289/2021",
+   "title": "Lei nº 2.289, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/359",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/359/lei_2289_-_dia_do_optometrista_-_marcos_lilico_muller.pdf",
+     "sha256": "4c5da59ab42a0ca3e0837b1d808ed7d6c9b59ed702a93d0987836340286afa8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02288",
+   "short": "Lei 2288/2021",
+   "title": "Lei nº 2.288, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/358",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/358/lei_2288_-_autoriza_bares_casas_noturnas_e_restaurantes_fixar_cartazes_sobre_a_violencia_contra_a_mulher_-_rodrigo_pit.pdf",
+     "sha256": "6919265b1536c816f9ee9226a7da9f1a390a4b842a3b92e4b90b8c53dc796e0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02287",
+   "short": "Lei 2287/2021",
+   "title": "Lei nº 2.287, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/357",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/357/lei_2287_-_semana_municipal_de_protecao_e_bem_estar_dos_animais_-_alan_cruz_e_magrao_nobre.pdf",
+     "sha256": "1673617ac2e38cc0267e00dca25194afec44846197b84fae2c51855a69063f39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02286",
+   "short": "Lei 2286/2021",
+   "title": "Lei nº 2.286, de 9 de novembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/356",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/356/lei_2286_-_dia_do_animal_de_estimacao_-_parada_pet_-_alan_cruz_e_magrao_nobre.pdf",
+     "sha256": "9d5144a384a063940a0ad4ac65c83ef696193d6c7eb8b5f237a09bf489968edb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02285",
+   "short": "Lei 2285/2021",
+   "title": "Lei nº 2.285, de 21 de setembro de 2021",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/355",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2021/355/lei_2285_-_titulo_de_utilidade_publica_-_apoio_ao_ser_humano_-_allan_cruz.pdf",
+     "sha256": "4e62e6f9bb9b5db807e2add5b293fccd8258577cd26a6c28bf5c7bd60b003744"
+    }
+   ]
   }
  ]
 }
