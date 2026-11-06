@@ -14,6 +14,20 @@
      "sha256": "096304bff588be745e057a24bf8c3abcf40242b0134efb69e5c9ce381aad3484"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-02427",
+   "short": "Lei 2427/2023",
+   "title": "Lei nº 2.427, de 10 de outubro de 2023",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/3132",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2023/3132/lei_no_2.427_de_10_de_outubro_de_2023.pdf",
+     "sha256": "0df57eacd77730f67cc195b450d72729fb74c0ca21f438733e63da2b8eb25a6b"
+    }
+   ]
   }
  ]
 }

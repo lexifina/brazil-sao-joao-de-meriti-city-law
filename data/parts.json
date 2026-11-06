@@ -5,6 +5,12 @@
     "lei-2026-02816"
    ],
    "sha256": "6ab9e24fcc5f3bbdfdb15dc44b8f33051f37c0bd8c26feebc97d2601f15cd098"
+  },
+  "30-leis-007.json": {
+   "acts": [
+    "lei-2023-02427"
+   ],
+   "sha256": "1382eca0bc8eaa9b0208ee93e0c60491c77043b20e3b7d00d21f8f2e3976c115"
   }
  },
  "schema": 1
