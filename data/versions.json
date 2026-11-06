@@ -3500,6 +3500,748 @@
      "sha256": "7deb2bcb4be2e42c25a2a32da9252186e76320f4165e06ab0b6258956b2014b6"
     }
    ]
+  },
+  {
+   "slug": "lei-2013-01869",
+   "short": "Lei 1869/2013",
+   "title": "Lei nº 1.869, de 20 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/587",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/587/lei_n.o_1869_de_20_de_marco_de_2013..pdf",
+     "sha256": "cc6ea526b9d861db67fe0c38c5e3a5f9170f1cffeb8b7614f7044b4ce84e6999"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01868",
+   "short": "Lei 1868/2013",
+   "title": "Lei nº 1.868, de 20 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2492",
+   "versions": [
+    {
+     "from": "2013-03-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2492/lei__no_1868.pdf",
+     "sha256": "44987157ab14ed1d3fc9767d2bb98c130c4d5a887383702d0ce4f423ebfb5936"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01867",
+   "short": "Lei 1867/2013",
+   "title": "Lei nº 1.867, de 20 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2491",
+   "versions": [
+    {
+     "from": "2013-03-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/2491/lei__no_1867.pdf",
+     "sha256": "b75f243f74065bee7eb22e1067e61931d8334b592720d22ad0806d633f7dc48a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01866",
+   "short": "Lei 1866/2013",
+   "title": "Lei nº 1.866, de 5 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/586",
+   "versions": [
+    {
+     "from": "2013-03-05",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/586/lei_n.o_1866_de_05_de_marco_de_2013..pdf",
+     "sha256": "2e124de17529eabc60e10ccbc6361a32ff06a562416b4c830c9fca1ab790f5f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-01865",
+   "short": "Lei 1865/2013",
+   "title": "Lei nº 1.865, de 5 de março de 2013",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/585",
+   "versions": [
+    {
+     "from": "2013-03-05",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/585/lei_n.o_1865_de_05_de_marco_de_2013..pdf",
+     "sha256": "b31e948d971e8223b230b206bd9ca583b02d36aaca217f2502234cba73029991"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01862",
+   "short": "Lei 1862/2012",
+   "title": "Lei nº 1.862, de 12 de dezembro de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2489",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2489/lei__1862.pdf",
+     "sha256": "6a52a0585ea2894e67eecdcb23c1f8d320bdcd9dad9755ffba20cd8eb7290915"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01859",
+   "short": "Lei 1859/2012",
+   "title": "Lei nº 1.859, de 12 de dezembro de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2488",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2488/lei__1859.pdf",
+     "sha256": "e14c58710f1a445b6390dd6e63a8251d93f7f56cd0a7ce89d7fe547b6b8c0e53"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-00149",
+   "short": "LC 149/2012",
+   "title": "Lei Complementar nº 149, de 12 de dezembro de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/380",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/380/lei_complementar_no.149_de_12_de_dezembro_de_2012.pdf",
+     "sha256": "e2e86422f3f28a64ae650a52817d82a239b59865404bdead37dcf85fea37c031"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01860",
+   "short": "Lei 1860/2012",
+   "title": "Lei nº 1.860, de 11 de dezembro de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/581",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2013/581/lei_no_1860_de_11_de_dezembro_de_2012..pdf",
+     "sha256": "73229ea20c9773223e5a1cbeb9c152cb9685faf7acfffad29a7629a681da10c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01848",
+   "short": "Lei 1848/2012",
+   "title": "Lei nº 1.848, de 26 de junho de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2486",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2486/lei__1848.pdf",
+     "sha256": "ccb7ef96b80b209dfaa672e7299abf6ba14b044dd8be2ce1a0c505aad2283e13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01847",
+   "short": "Lei 1847/2012",
+   "title": "Lei nº 1.847, de 26 de junho de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2485",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2485/lei__1847.pdf",
+     "sha256": "186a26ac138b818492209049c0dc0b02162e73eacc3c74f7abf50b6eb63d2a61"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01846",
+   "short": "Lei 1846/2012",
+   "title": "Lei nº 1.846, de 26 de junho de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2484",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2484/lei__1846.pdf",
+     "sha256": "a31f947ebf54f79923bcd5da87c828dc1848d3d15fcdc241a4b68c65c116a74c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01843",
+   "short": "Lei 1843/2012",
+   "title": "Lei nº 1.843, de 29 de maio de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/490",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/490/lei_no._1843_de_29_de_maio_de_2012..pdf",
+     "sha256": "3c7100bdb350552245710d4438d28467091bd0e6094fbdf3fac745c567f85b2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01842",
+   "short": "Lei 1842/2012",
+   "title": "Lei nº 1.842, de 29 de maio de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2483",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2483/lei__1842.pdf",
+     "sha256": "7671909001623debf839783d92ad75487d916404ed1a175eeee69b253153af33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01841",
+   "short": "Lei 1841/2012",
+   "title": "Lei nº 1.841, de 29 de maio de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2482",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2482/lei__1841.pdf",
+     "sha256": "b2ba6cb2763f1f36e9fec706fd07ca015669e47f84e8c481a1d6d716137cd3c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01840",
+   "short": "Lei 1840/2012",
+   "title": "Lei nº 1.840, de 29 de maio de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2481",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2481/lei__1840.pdf",
+     "sha256": "73392eb206f502f20fce8339df1d76a84e0f45e2aa8643a59ced57e7c3d29984"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01837",
+   "short": "Lei 1837/2012",
+   "title": "Lei nº 1.837, de 22 de maio de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/487",
+   "versions": [
+    {
+     "from": "2012-05-22",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/487/lei_no_1837_de_22_de_maio_de_2012.pdf",
+     "sha256": "fa43602e1ca70489bfe1544f471d558868ca94bb07a87414c10a29678f6f6a2c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-00147",
+   "short": "LC 147/2012",
+   "title": "Lei Complementar nº 147, de 17 de abril de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/456",
+   "versions": [
+    {
+     "from": "2012-04-17",
+     "units": 19,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/456/lei_complementar_n.o_147_de_17_de_abril_de_2012..pdf",
+     "sha256": "f3b338199201f7a9db93a2650049a695fcd0748f143ca5dbc7c41ae6d778a486"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01832",
+   "short": "Lei 1832/2012",
+   "title": "Lei nº 1.832, de 3 de abril de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/483",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/483/lei_no_1832_de_03_de_abril_de_2012..pdf",
+     "sha256": "1eaf626a17f1870dcc9ffb1483e24f4077d5049e7d2901038e9c0c3601e9fede"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01831",
+   "short": "Lei 1831/2012",
+   "title": "Lei nº 1.831, de 3 de abril de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2479",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2479/lei__1831.pdf",
+     "sha256": "4591655cee57d7aa04344e363e0c865ac5d0735c9f0298caa05052388d2908f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01830",
+   "short": "Lei 1830/2012",
+   "title": "Lei nº 1.830, de 3 de abril de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2478",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2478/lei__1830.pdf",
+     "sha256": "59c21948db49b5134b752cc35b76e565c829783eca051e430bf097f2989f6b38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01829",
+   "short": "Lei 1829/2012",
+   "title": "Lei nº 1.829, de 27 de março de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2477",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2477/lei__1829.pdf",
+     "sha256": "6ba366f62aa51853a484054c036b76abdc6e3a4b6e157a3bd0e5b4fbd303ca0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01828",
+   "short": "Lei 1828/2012",
+   "title": "Lei nº 1.828, de 27 de março de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2476",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 11,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2476/lei__1828.pdf",
+     "sha256": "48eda97d96fa8cffc928eea42ff44991943298ece3b7bd116166740269bb0380"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01827",
+   "short": "Lei 1827/2012",
+   "title": "Lei nº 1.827, de 27 de março de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2475",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 10,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2475/lei__1827.pdf",
+     "sha256": "ffd705ea5879d7e8f06d6b25bbe2c635801bfdd77f774c9171bf76a87338a3c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01826",
+   "short": "Lei 1826/2012",
+   "title": "Lei nº 1.826, de 27 de março de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/482",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/482/lei_no_1826_de_27_de_marco_de_2012..pdf",
+     "sha256": "a005afd3f69c39ea1ded841a50d3017fa3a64e5bdaafdc9a13e24403a5494b31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-01825",
+   "short": "Lei 1825/2012",
+   "title": "Lei nº 1.825, de 14 de março de 2012",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2474",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2012/2474/lei__1825.pdf",
+     "sha256": "e80eb77eb7a7567f55ca388ae11a12c2d9c523fb0871a4d9b04bb9352a0ea555"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01818",
+   "short": "Lei 1818/2011",
+   "title": "Lei nº 1.818, de 20 de dezembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/398",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/398/lei_no_1818_de_20_de_dezembro_de_2011..pdf",
+     "sha256": "fe8391bbd0fd941536fe35004884b0e51629fa0476af7fdbb75dbbef3827fec5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01816",
+   "short": "Lei 1816/2011",
+   "title": "Lei nº 1.816, de 14 de dezembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/396",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/396/lei_no_1816_de_14_de_dezembro_de_2011..pdf",
+     "sha256": "7618f6883b8bf77e3475d0978bb30dc47167c2f43b258fbfef07e7ec17fd1935"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01814",
+   "short": "Lei 1814/2011",
+   "title": "Lei nº 1.814, de 6 de dezembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/453",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/453/lei_no_1814_de_06_de_dezembro_de_2011..pdf",
+     "sha256": "431d223c6486680c0536bace215b06cb178f898e4fd39b291056072a9b640391"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01812",
+   "short": "Lei 1812/2011",
+   "title": "Lei nº 1.812, de 18 de outubro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/393",
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/393/lei_no.1812_de_18_de_outubro_de_2011..pdf",
+     "sha256": "526910017e2e1c6371faec4ea51a631760cf7eedc35e7c63bb54369ee8822736"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01811",
+   "short": "Lei 1811/2011",
+   "title": "Lei nº 1.811, de 4 de outubro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/392",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/392/lei_no.1811_de_04_de_outubro_de_2011..pdf",
+     "sha256": "15ac477c491830e3ee78f9a87a3926695cf6910a0d380afc546f00f1ae0e2253"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01810",
+   "short": "Lei 1810/2011",
+   "title": "Lei nº 1.810, de 4 de outubro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/391",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/391/lei_no_1810_de_04_de_outubro_de_2011..pdf",
+     "sha256": "e50cbd1aa8ac3cb32307bc5fa51d826c0d5b2015d84fcf71b123ab81a84b8cdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01809",
+   "short": "Lei 1809/2011",
+   "title": "Lei nº 1.809, de 20 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/390",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/390/lei_n.o_1809_de_20_de_setembro_de_2011..pdf",
+     "sha256": "2d8ad50de3b2b8e661d1b845848905537161e40dd423f00cfd077fcbabc2c3fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01808",
+   "short": "Lei 1808/2011",
+   "title": "Lei nº 1.808, de 20 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/389",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/389/lei_n.o_1808_de_20_de_setembro_de_2011..pdf",
+     "sha256": "67cb42b66c2a3e0feebaf778997668b056d36762e0c81aafaefe6e745504e033"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01807",
+   "short": "Lei 1807/2011",
+   "title": "Lei nº 1.807, de 20 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/388",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/388/lei_n.o_1807_de_20_de_setembro_de_2011..pdf",
+     "sha256": "f3aef68b8ee0db0859cdd122ecdef39a037bd0fd810d40ca2b156510f017345a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01806",
+   "short": "Lei 1806/2011",
+   "title": "Lei nº 1.806, de 20 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/387",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/387/lei_n.o_1806_de_20_de_setembro_de_2011..pdf",
+     "sha256": "9e8f9b718fd04da5b3c21880e8d5c6dc0ebd12b9513a736a6672f2bbb8ea679e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01805",
+   "short": "Lei 1805/2011",
+   "title": "Lei nº 1.805, de 20 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/386",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/386/lei_no._1805_de_20_de_setembro_de_2011..pdf",
+     "sha256": "45ed0de638d70ac73404f0efe70274b04a0a66257684f8705f2ccb647fdb5d6a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01803",
+   "short": "Lei 1803/2011",
+   "title": "Lei nº 1.803, de 13 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2473",
+   "versions": [
+    {
+     "from": "2011-09-13",
+     "units": 11,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2473/lei_1803.pdf",
+     "sha256": "69efd6d3f928071275f7642d421c4e66f684125d5b737b59a11644fc4b81b25b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01802",
+   "short": "Lei 1802/2011",
+   "title": "Lei nº 1.802, de 6 de setembro de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2472",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2472/lei_1802.pdf",
+     "sha256": "89282af153a9f1cb90743332f5c4b090b71a6d2fe76d9d2cd4cc500e1c060013"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01801",
+   "short": "Lei 1801/2011",
+   "title": "Lei nº 1.801, de 30 de agosto de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2471",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2471/lei_1801.pdf",
+     "sha256": "9f0a4dc43eab0a1d1ff36f20dbb895be6f320d34d09c2e3207507185432ad427"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01800",
+   "short": "Lei 1800/2011",
+   "title": "Lei nº 1.800, de 30 de agosto de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2470",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2470/lei_1800.pdf",
+     "sha256": "ed5d67c35dcb1e78a9c52f6649307551d4cb51c6c975067278534a1b4fee9266"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01799",
+   "short": "Lei 1799/2011",
+   "title": "Lei nº 1.799, de 30 de agosto de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2469",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2469/lei_1799.pdf",
+     "sha256": "6c93fe2fa601cbbd697c4735abf67d511b86284a424ca62671171f1c61f02000"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01794",
+   "short": "Lei 1794/2011",
+   "title": "Lei nº 1.794, de 6 de julho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2464",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2464/lei_1794.pdf",
+     "sha256": "b5085604d382733697990bcd00f32cff62067ecf898eb860c354ab1ffe8c1403"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01792",
+   "short": "Lei 1792/2011",
+   "title": "Lei nº 1.792, de 28 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2462",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 18,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2462/lei_1792.pdf",
+     "sha256": "91a42ab55e3dc4e7edfe3ca51d40af1328e35806735ca60c073522a86830f96a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01791",
+   "short": "Lei 1791/2011",
+   "title": "Lei nº 1.791, de 28 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2461",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2461/lei_1791.pdf",
+     "sha256": "9edef340b819cd7400ca40ba7ad892b7ca83acd53a7a4522c2250810d1145fcc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01790",
+   "short": "Lei 1790/2011",
+   "title": "Lei nº 1.790, de 28 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2460",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2460/lei_1790.pdf",
+     "sha256": "be03921a77dbdb518412e9ef1530dca2ec838ec2cb52c55cdaf34a4b5e759f6c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01789",
+   "short": "Lei 1789/2011",
+   "title": "Lei nº 1.789, de 14 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2459",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2459/lei_1789.pdf",
+     "sha256": "bb7746336ec810eeab6a5283ab0eda48d5a480424d5b95becf33d4398d53c9c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01788",
+   "short": "Lei 1788/2011",
+   "title": "Lei nº 1.788, de 14 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2458",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2458/lei_1788.pdf",
+     "sha256": "3119a436c79a3e51412e24e801c6e559b67d98953fe88b7930980020d5a6a60c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01787",
+   "short": "Lei 1787/2011",
+   "title": "Lei nº 1.787, de 14 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2457",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2457/lei_1787.pdf",
+     "sha256": "e629710b3ef7c3603953bb66dacb93ebe2e3d53d6ee4927752b6f0031257c57f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01786",
+   "short": "Lei 1786/2011",
+   "title": "Lei nº 1.786, de 14 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2456",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 9,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2456/lei_1786.pdf",
+     "sha256": "8f72956135d82f0ee466ba0fa77de4a767fe2b8afa622b3dc23f13e57cb9db92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01785",
+   "short": "Lei 1785/2011",
+   "title": "Lei nº 1.785, de 14 de junho de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2455",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2455/lei_1785.pdf",
+     "sha256": "f72dd75f76798b888b980c3762f97ab498e05c43e87dc6176322f67bbbcc1b23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01781",
+   "short": "Lei 1781/2011",
+   "title": "Lei nº 1.781, de 10 de maio de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2451",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 10,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2451/lei_1781.pdf",
+     "sha256": "1f23ee913d3196595e86ce8e1bdc943609099777f1d65626379104b6b855e204"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-01780",
+   "short": "Lei 1780/2011",
+   "title": "Lei nº 1.780, de 10 de maio de 2011",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2450",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2011/2450/lei_1780.pdf",
+     "sha256": "56c01ca5a2e431a8f1ec3acddbd7efabace6e927ef879362b87676eae4eeca7d"
+    }
+   ]
   }
  ]
 }
