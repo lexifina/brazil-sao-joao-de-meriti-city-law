@@ -952,6 +952,314 @@
      "sha256": "989e3cb4ba1f4da7f88eb7a75017626df28aca46961d2c21217b77c22e8e86fd"
     }
    ]
+  },
+  {
+   "slug": "lei-2018-02190",
+   "short": "Lei 2190/2018",
+   "title": "Lei nº 2.190, de 3 de julho de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/249",
+   "versions": [
+    {
+     "from": "2018-07-03",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/249/lei_2190_-_dia_do_corretor_de_imoveis.pdf",
+     "sha256": "40e8d142fcf919fd32cc03d2764bef1a0d22182a26e4d7ffd820d13fb9d01d38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-02187",
+   "short": "Lei 2187/2018",
+   "title": "Lei nº 2.187, de 5 de junho de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/247",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/247/lei_2187_-_titulo_de_utilidade_publica_-_forca_maxima_-_aldinho.pdf",
+     "sha256": "0001dd3edf1b6c61bfbcf0fb42d8eb015fabf88499a37dc04d8c948404601802"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-02186",
+   "short": "Lei 2186/2018",
+   "title": "Lei nº 2.186, de 24 de abril de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/246",
+   "versions": [
+    {
+     "from": "2018-04-24",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/246/lei_2186_-_altera_a_lei_2172_de_2017.pdf",
+     "sha256": "1551a0e3088d38d683cc57efa7dd80946675b0852e9021e61b2507225099d924"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-02184",
+   "short": "Lei 2184/2018",
+   "title": "Lei nº 2.184, de 17 de abril de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/244",
+   "versions": [
+    {
+     "from": "2018-04-17",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/244/lei_2184_-_dia_dos_desbravadores.pdf",
+     "sha256": "82441b79a76428b4c2eddf0027829dc29629f21cda98418565129d09d247b220"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-02181",
+   "short": "Lei 2181/2018",
+   "title": "Lei nº 2.181, de 4 de abril de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/241",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/241/lei_2181_-_utilizacao_da_rede_de_ensino_pelos_escoteiros.pdf",
+     "sha256": "a7fad526541cef037501d7c1052e464fc35834ffd4b4119d46437e18e8fb4f66"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00187",
+   "short": "LC 187/2018",
+   "title": "Lei Complementar nº 187, de 21 de fevereiro de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/260",
+   "versions": [
+    {
+     "from": "2018-02-21",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/260/lei_complementar_187_-_altera_o_art._312_da_lc_121_de_2009.pdf",
+     "sha256": "8607e9c111d9b544866cd75395baad76af7f7cd4e88b7aa1a16d08f58611e9d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02166",
+   "short": "Lei 2166/2017",
+   "title": "Lei nº 2.166, de 27 de setembro de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1161",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1161/lei_no_2.166_de_27_de_setembro_de_2017..pdf",
+     "sha256": "a6f92887786aec3bee7262fe6b521030215ffe0b8ba2752dfad326ddf29f1c76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02168",
+   "short": "Lei 2168/2017",
+   "title": "Lei nº 2.168, de 26 de setembro de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1166",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1166/lei_no_2.168_de_26_de_setembro_de_2017.pdf",
+     "sha256": "3961969956e8276725d653f5997a18ec5c4be25d78c747c69dd3af364b66495c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02164",
+   "short": "Lei 2164/2017",
+   "title": "Lei nº 2.164, de 26 de setembro de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1159",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1159/lei_no_2.164_de_26_de_setembro_de_2017.pdf",
+     "sha256": "4836703e2820c1677ebd268572b779dcc1aa68f8df0d006e8f4faae03f1c5e3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02159",
+   "short": "Lei 2159/2017",
+   "title": "Lei nº 2.159, de 26 de setembro de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1165",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1165/lei_no_2.159_de_26_de_setembro_2017..pdf",
+     "sha256": "0e7e7dedfdde0cd86945fb97ca3feb609fa14f6c5bbb6571aa5db956ed91a553"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02158",
+   "short": "Lei 2158/2017",
+   "title": "Lei nº 2.158, de 26 de setembro de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1164",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1164/lei_no_2.158_de_26_de_setembro_de_2017..pdf",
+     "sha256": "f22fbaa5290542bd3baea82412bdd79e4e7ecdab1d142c28e9121dc61c91e474"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02152",
+   "short": "Lei 2152/2017",
+   "title": "Lei nº 2.152, de 28 de agosto de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2548",
+   "versions": [
+    {
+     "from": "2017-08-28",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/2548/lei_2152_-_incentivo_ao_emprego_local.pdf",
+     "sha256": "c52d732a4ebcb08684e76260113554e047dae97a556fe8cfd8bae02af5cee4bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02151",
+   "short": "Lei 2151/2017",
+   "title": "Lei nº 2.151, de 15 de agosto de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1151",
+   "versions": [
+    {
+     "from": "2017-08-15",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1151/lei_no_2.151_de_15_de_agosto_de_2017..pdf",
+     "sha256": "4db03a532a966169243d53bbc21201031f4f02ff90bda324a7cef8dc768087b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02162",
+   "short": "Lei 2162/2017",
+   "title": "Lei nº 2.162, de 5 de julho de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1157",
+   "versions": [
+    {
+     "from": "2017-07-05",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1157/lei_no_2.162_de_05_julho_de_2017.pdf",
+     "sha256": "e0ffe33930bfcb841923c4ba0b05b9d1c59a1d9d078ff40d14d779ece3e87323"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02154",
+   "short": "Lei 2154/2017",
+   "title": "Lei nº 2.154, de 17 de maio de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1152",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1152/lei_no_2.154_de_17_de_maio_de_2017.pdf",
+     "sha256": "5eb9e571d3424b5a1805ec62c794fb35df8eaddc105b8021ee5d96861efaae63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02157",
+   "short": "Lei 2157/2017",
+   "title": "Lei nº 2.157, de 26 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1154",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1154/lei_no.2157_de_26_de_abril_de_2017..pdf",
+     "sha256": "948f99ebb66aee612557f438f37bb00a04aadd9a69b02136d4f2da869fc6a2da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02155",
+   "short": "Lei 2155/2017",
+   "title": "Lei nº 2.155, de 26 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1153",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1153/lei_no.2155_de_26_de_abril_de_2017..pdf",
+     "sha256": "509e6922f0d55184325fe1575f42c3ac9e018e5e9dc4182c30124832c5fc7d16"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02138",
+   "short": "Lei 2138/2017",
+   "title": "Lei nº 2.138, de 11 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1142",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 26,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1142/lei_no._2138_de_11_de_abril_de_2017..pdf",
+     "sha256": "267fc6e898dd84d554bb8087cc35902dae5a35d68072afb1461a7c1c853124d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02149",
+   "short": "Lei 2149/2017",
+   "title": "Lei nº 2.149, de 4 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1150",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 8,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1150/lei_n_2.149_de_04_de_abril_de_2017..pdf",
+     "sha256": "689d5dd2c592cb11fe45d479b652543ffe7169d442c2a2b3c5695d3dd6e05d8d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02147",
+   "short": "Lei 2147/2017",
+   "title": "Lei nº 2.147, de 4 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1149",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1149/lei_no_2.147_de_04_de_abril_de_2017..pdf",
+     "sha256": "00018a71e46d5467728ad7304df8f81955119c7b0ade5782d7b75ce4e4041e46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02145",
+   "short": "Lei 2145/2017",
+   "title": "Lei nº 2.145, de 4 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1147",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1147/lei_n_2.145_de_04_de_abril_de_2017..pdf",
+     "sha256": "f9bef84e204f8a7e628f3abf43815f216145970981d79ed0d0025b1b241ba242"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02144",
+   "short": "Lei 2144/2017",
+   "title": "Lei nº 2.144, de 4 de abril de 2017",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1146",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2017/1146/lei_n_2.144_de_04_de_abril_de_2017..pdf",
+     "sha256": "bfa2e9089197fe1cae4719a512f194b9c824d29a3614ebeb66965cd0d476ea0a"
+    }
+   ]
   }
  ]
 }
