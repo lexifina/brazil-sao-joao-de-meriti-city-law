@@ -1344,6 +1344,146 @@
      "sha256": "53a60e732839eb2191ded3f69ba6b25697ebd3addcc85b7dbd241147a63d712a"
     }
    ]
+  },
+  {
+   "slug": "lei-2016-02095",
+   "short": "Lei 2095/2016",
+   "title": "Lei nº 2.095, de 3 de maio de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1073",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 13,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1073/lei_no._2.095_de_03_de_maio_de_2016..pdf",
+     "sha256": "116c4e75264695653193edc9f6ee727068c9abe6f5d7dceea175f24b34ef9716"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02086",
+   "short": "Lei 2086/2016",
+   "title": "Lei nº 2.086, de 19 de abril de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1058",
+   "versions": [
+    {
+     "from": "2016-04-19",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1058/lei_no_2.086_de_19_de_abril_de_2016..pdf",
+     "sha256": "232373022210d5bf027085801e91a42a17ecf14aaf47f9c6db0f8193857cc4ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02065",
+   "short": "Lei 2065/2016",
+   "title": "Lei nº 2.065, de 1 de março de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1038",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1038/lei_n._2.065_de_01_de_marco_de_2016.pdf",
+     "sha256": "4ba5e1fd0556b4d00d15e68cc281722a2e980d21aa98589fd2291c7e87396cee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02062",
+   "short": "Lei 2062/2016",
+   "title": "Lei nº 2.062, de 3 de fevereiro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1036",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1036/lei_n_2.062_de_03_de_fevereiro_de_2016.pdf",
+     "sha256": "e1e8726f9fc7b84819ff833f3639718113bf8818c6c51ac53fde2f3f5b116ddf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02061",
+   "short": "Lei 2061/2016",
+   "title": "Lei nº 2.061, de 3 de fevereiro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/2544",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 11,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/2544/lei_no_2.061_de_03_de_fevereiro_de_2016.pdf",
+     "sha256": "88a758f5b4da732bd68aed67155d9b9a3309d5081afa0ea130f52eb36711ccb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02060",
+   "short": "Lei 2060/2016",
+   "title": "Lei nº 2.060, de 3 de fevereiro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1035",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1035/lei_no_2.060_de_03_de_fevereiro_de_2016..pdf",
+     "sha256": "167fbe16d5dfbea6f08fa6f02c97c0714b6fdb4c66a6550e297daffb85cdf9ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02059",
+   "short": "Lei 2059/2016",
+   "title": "Lei nº 2.059, de 3 de fevereiro de 2016",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1034",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2016/1034/lei_no_2.059_de_03_de_fevereiro_de_2016..pdf",
+     "sha256": "01c56910df30c42a0c65876a8d39bff89d4cbe32a25fc317288a8d87c307013a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02057",
+   "short": "Lei 2057/2015",
+   "title": "Lei nº 2.057, de 22 de dezembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/969",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/969/lei_no._2.057_de_22_de_dezembro_de_2015..pdf",
+     "sha256": "6d4a0ab87e24f043a35de364346e1cc832ab868e601a41ce06411fbd85d82a67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02054",
+   "short": "Lei 2054/2015",
+   "title": "Lei nº 2.054, de 22 de dezembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/966",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 6,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/966/lei_n.o_2.054_de_22_de_dezembro_de_2015.pdf",
+     "sha256": "69f4f25fca965d5a865961b790448ed3e34ccb741fc07bcd510b0b2e931dffb8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02053",
+   "short": "Lei 2053/2015",
+   "title": "Lei nº 2.053, de 22 de dezembro de 2015",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/1033",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2015/1033/lei_no_2.053_de_22_de_dezembro_de_2015.pdf",
+     "sha256": "8e88fe920829b1e45e9ee456fd9fcbbde625dc76136342dde0f1c70de06bda4b"
+    }
+   ]
   }
  ]
 }
