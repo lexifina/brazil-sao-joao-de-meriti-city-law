@@ -588,6 +588,370 @@
      "sha256": "3c57e428c80e37c8b0885463d46f27bc78d813e46aa9f2b6c85c9c397643f138"
     }
    ]
+  },
+  {
+   "slug": "lc-2020-00197",
+   "short": "LC 197/2020",
+   "title": "Lei Complementar nº 197, de 16 de dezembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/287",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/287/lei_complementar_197_-_altera_art.164_da_lei_no_1722-2010.pdf",
+     "sha256": "ba76ad762d15c89dda2adaf9b72c14403c53ea76dc0c556daa250ab54d38659f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02236",
+   "short": "Lei 2236/2020",
+   "title": "Lei nº 2.236, de 8 de dezembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/309",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/309/lei_2236_-_denominacao_creche_valder_vermelho.pdf",
+     "sha256": "1737d4566044e32906ef9596ac3d8925f75e3b5956b8e5ca16891a958ebb025d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02232",
+   "short": "Lei 2232/2020",
+   "title": "Lei nº 2.232, de 7 de outubro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/305",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 15,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/305/lei_2232_-_plano_mun._saneamento_basico.pdf",
+     "sha256": "2f4349e24d6da04bf260306fc7d5fb6738596befcef05c8315792d3a9cd42ba5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02231",
+   "short": "Lei 2231/2020",
+   "title": "Lei nº 2.231, de 29 de setembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/304",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/304/lei_2231_-_denominacao_logradouro_publico.pdf",
+     "sha256": "3f3597d9afa1ff894af58374cc0d51e19a837227ee2a27c46e982dd587883c49"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02230",
+   "short": "Lei 2230/2020",
+   "title": "Lei nº 2.230, de 29 de setembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/303",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/303/lei_2230_-_denominacao_logradouro_publico.pdf",
+     "sha256": "dbfa783f74320f555c3360214b0e41399084c5b82a06595a25fe6f61510a3fa5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02228",
+   "short": "Lei 2228/2020",
+   "title": "Lei nº 2.228, de 29 de setembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/301",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/301/lei_2228_-_denominacao_logradouro_publico.pdf",
+     "sha256": "0ee662ddeb91470bf557e0a6624da15353c6c5a97d37e4785b79b91c2596ca7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02229",
+   "short": "Lei 2229/2020",
+   "title": "Lei nº 2.229, de 20 de setembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/302",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/302/lei_2229_-_util._publica_projeto_excelencia.pdf",
+     "sha256": "22a3ad7e3373606e8a5e05fba10f42e5894e2919d3c917a0fb18762f281a2014"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02227",
+   "short": "Lei 2227/2020",
+   "title": "Lei nº 2.227, de 8 de setembro de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/300",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/300/lei_2227_-_denominacao_logradouro_publico.pdf",
+     "sha256": "6d94ef36c00401ffe7312d77e466fbff88a50c602aae44aa370a1716d1d91bec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02225",
+   "short": "Lei 2225/2020",
+   "title": "Lei nº 2.225, de 11 de agosto de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/298",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/298/lei_2225_-_capacitacao_conselheiro_tutelar.pdf",
+     "sha256": "a54320ffaad7d12e2c958d7ef1b6e25260fc70368333bca7fab7ef835225d1f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02224",
+   "short": "Lei 2224/2020",
+   "title": "Lei nº 2.224, de 14 de julho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/297",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/297/lei_2224_-_denominacao_logradouro_publico.pdf",
+     "sha256": "f2d5a5b6968f683c78105a103cd59f9af23998ac2aac658159d96cbddb483168"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02223",
+   "short": "Lei 2223/2020",
+   "title": "Lei nº 2.223, de 14 de julho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/296",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/296/lei_2223_-_denominacao_logradouro_publico.pdf",
+     "sha256": "7dd87861a01e0ef3d0824439052a1012e3bef6a7587cc831cecfc956e0862039"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02222",
+   "short": "Lei 2222/2020",
+   "title": "Lei nº 2.222, de 14 de julho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/295",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/295/lei_2222_-_assentos_deficientes_locais_publicos.pdf",
+     "sha256": "ffeb8e1f94318d1ddaba1cecab062df64a39bf01ce11c9f60d067b635f182d7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02221",
+   "short": "Lei 2221/2020",
+   "title": "Lei nº 2.221, de 14 de julho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/294",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/294/lei_2221_-_denominacao_creche.pdf",
+     "sha256": "e6b6c04ed65f731589626e802e78a4c41650f75863c1a0ccb8f131f2eae0f954"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02220",
+   "short": "Lei 2220/2020",
+   "title": "Lei nº 2.220, de 14 de julho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/293",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 50,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/293/lei_2220_-_ldo.pdf",
+     "sha256": "581bfbb44e53eb730ada60a9aa062fd49653546481d136212d6ff725e2dd9b0f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00195",
+   "short": "LC 195/2020",
+   "title": "Lei Complementar nº 195, de 30 de junho de 2020",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/285",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2020/285/lei_complementar_195_-_pgto_de_divida_tributaria_cartao_credito.pdf",
+     "sha256": "592b4c976a2c151bda2c601e653e583ccf7a951381937f0e97bc2888777401e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02217",
+   "short": "Lei 2217/2019",
+   "title": "Lei nº 2.217, de 18 de dezembro de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/282",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/282/lei_2217_-_torna_joao_candido_heroi_municipal.pdf",
+     "sha256": "b8c5234bc5b490515f003bfa4a1fe6db88fbb9c42025d28c4b7fc9d0f9a9c7b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02213",
+   "short": "Lei 2213/2019",
+   "title": "Lei nº 2.213, de 5 de novembro de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/279",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 7,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/279/lei_2213_-_altera_o_conselho_municipal_da_terceira_idade.pdf",
+     "sha256": "77cfec6af00f3876dae69b2ca711c6af6a518063a94a1979403499747e1ba30a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02210",
+   "short": "Lei 2210/2019",
+   "title": "Lei nº 2.210, de 20 de agosto de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/276",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/276/lei_2210_-_denomina_logradouro_publico_-_dinho_farmacia.pdf",
+     "sha256": "44a71a943c92a45c2447d9e5b221942a26d3edabf0ef9955c70572b7043fa424"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02206",
+   "short": "Lei 2206/2019",
+   "title": "Lei nº 2.206, de 25 de junho de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/273",
+   "versions": [
+    {
+     "from": "2019-06-25",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/273/lei_2206_-_denomina_logradouro_publico_-_aldinho_hungria.pdf",
+     "sha256": "4b7aa8d781616ccd7b746c5e341a9d3a0917251627b2e81107af17c53ce00c6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02205",
+   "short": "Lei 2205/2019",
+   "title": "Lei nº 2.205, de 4 de junho de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/272",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 5,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/272/lei_2205_-_utilidade_publica_ass._com._e_industrial.pdf",
+     "sha256": "43fd054e9f2459c1bf316c37d839cdb9b8628f761ed659cb23d16267692e19a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02204",
+   "short": "Lei 2204/2019",
+   "title": "Lei nº 2.204, de 29 de maio de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/271",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 19,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/271/lei_2204_-_cria_conselho_mun._trabalho_e_renda.pdf",
+     "sha256": "4925f297e884090f5c7b23bc811470e549a0d11081fa2def27ceabc1843060df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02203",
+   "short": "Lei 2203/2019",
+   "title": "Lei nº 2.203, de 21 de maio de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/270",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 3,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/270/lei_2203_-_denomina_logradouro_publico_-_rogerio_fernandes.pdf",
+     "sha256": "f6b736b0f83a75823c108ed0fea1dba824f58fce2b367746a33da2669873b7bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-02201",
+   "short": "Lei 2201/2019",
+   "title": "Lei nº 2.201, de 10 de abril de 2019",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/268",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2019/268/lei_2201_-_plano_igualdade_racial_2017-2020.pdf",
+     "sha256": "380b37c35850862d66d42e1b2aade8bcdc389ab1575924b15b03fd779989b134"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00192",
+   "short": "LC 192/2018",
+   "title": "Lei Complementar nº 192, de 11 de dezembro de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/265",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 4,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/265/lei_complementar_192_-_institui_abono_extraordinario.pdf",
+     "sha256": "32030f2e0d5f52c3fec1d9335007a8f039c5083b69da85f1279fe473d11d45c3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00191",
+   "short": "LC 191/2018",
+   "title": "Lei Complementar nº 191, de 11 de dezembro de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/264",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/264/lei_complementar_191_-_regulamenta_conselho_mun._saude.pdf",
+     "sha256": "ef98d4f1d7c58cd30bcef7c76ebe1a6e9d5378c04082581a2addc49228690df4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-02195",
+   "short": "Lei 2195/2018",
+   "title": "Lei nº 2.195, de 27 de novembro de 2018",
+   "url": "https://sapl.saojoaodemeriti.rj.leg.br/norma/254",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 22,
+     "source_url": "https://sapl.saojoaodemeriti.rj.leg.br/media/sapl/public/normajuridica/2018/254/lei_2195_-_fundo_de_gestao_dos_recursos_fundeb.pdf",
+     "sha256": "989e3cb4ba1f4da7f88eb7a75017626df28aca46961d2c21217b77c22e8e86fd"
+    }
+   ]
   }
  ]
 }
